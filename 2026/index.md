@@ -11,7 +11,7 @@ title: "VCQC 2026"
 
 ### Organizing Host
 <div style="display: flex; align-items: center; gap: 15px;">
-  <img src="/Quantum_Kisholoy/assets/logo.png" alt="Institute Logo" width="100">
+  <img src="/Quantum_Kisholoy/assets/2026/logo.png" alt="Institute Logo" width="100">
   <div>
     <h3>Department of Physics</h3>
     <p>National Institute of Technology / IISER, India</p>
