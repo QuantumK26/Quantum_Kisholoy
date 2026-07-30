@@ -31,3 +31,7 @@ Welcome to VCQC 2026. This virtual conference brings together researchers, stude
 ## Pages
 * **[Keynote & Invited Speakers](./speakers)**
 * **[Registration & Abstract Submission](./registration)**
+
+
+## Scan the QR code for further details of the conference
+![QR Code](/Quantum_Kisholoy/assets/2026/QR_code_2026.png)
