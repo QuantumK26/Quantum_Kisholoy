@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Hide the View on GitHub button in the header banner */
+.page-header a.btn[href*="github.com"] {
+  display: none;
+}
