@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Hide "View on GitHub" button globally across ALL header banners */
+.btn {
+  display: none !important;
+}
