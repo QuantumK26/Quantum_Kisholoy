@@ -10,8 +10,14 @@ title: "VCQC 2026"
 # 1st Virtual Conference on Quantum Computing (VCQC 2026)
 
 ### Organizing Host
-**Department of Physics**  
-*National Institute of Technology / IISER, India*
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="/Quantum_Kisholoy/assets/logo.png" alt="Institute Logo" width="100">
+  <div>
+    <h3>Department of Physics</h3>
+    <p>National Institute of Technology / IISER, India</p>
+  </div>
+</div>
+
 
 * **Dates:** October 15–17, 2026  
 * **Mode:** Online (YouTube Live)  
