@@ -107,8 +107,6 @@ NIT Agartala
 
 <br>
 
-<h2 style="text-align:center;">Advisory Committee</h2>
-
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; text-align:center;">
 
 <div style="width:220px; padding:10px;">
@@ -143,8 +141,6 @@ Institute Name
 <summary><strong>▶ Working Committee</strong></summary>
 
 <br>
-
-<h2 style="text-align:center;">Working Committee</h2>
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; text-align:center;">
 
