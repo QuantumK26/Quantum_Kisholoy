@@ -45,21 +45,6 @@ Online (YouTube Live)
 <strong>💰 Registration Fee</strong><br>
 NIL (Free)
 </p>
-<hr>
-
-<h3>Pages</h3>
-
-<p>
-<a href="./speakers"><strong>🎤 Keynote & Invited Speakers</strong></a>
-</p>
-
-<p>
-<a href="./committee"><strong>👥 Conference Committee</strong></a>
-</p>
-
-<p>
-<a href="./registration"><strong>📝 Registration & Abstract Submission</strong></a>
-</p>
 
 </div>
 
@@ -83,6 +68,9 @@ This conference represents a pioneering initiative, being the first of its kind 
 </div>
 
 ------
+## Pages
+* **[Keynote & Invited Speakers](./speakers)**
+* **[Registration & Abstract Submission](./registration)**
 
 
 ## Scan the QR code for further details of the conference
