@@ -18,7 +18,7 @@ title: "Quantum Kisholoy - I"
 
 <img src="/Quantum_Kisholoy/assets/2026/Logo_NITA.png"
      alt="NIT Agartala Logo"
-     width="130">
+     width="150">
 
 <h3>Department of Mathematics</h3>
 
