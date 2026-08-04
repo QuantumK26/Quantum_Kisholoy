@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+<head>
+  <meta charset="UTF-8">
+
+  {% seo %}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="theme-color" content="#157878">
+
+  <link rel="stylesheet"
+        href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+
+<body>
+
+<!-- ====================================== -->
+<!-- QUANTUM KISHOLOY HEADER                -->
+<!-- ====================================== -->
+
+<header class="page-header" role="banner">
+
+  <!-- Quantum Circuit Animation -->
+  <div class="quantum-circuit" aria-hidden="true">
+
+    <!-- LEFT QUANTUM CIRCUIT -->
+
+    <div class="q-wire wire-1"></div>
+
+    <span class="q-state state-0">|0⟩</span>
+
+    <span class="q-gate gate-h">H</span>
+
+    <span class="q-node node-1"></span>
+
+    <span class="q-gate gate-x">X</span>
+
+
+    <!-- RIGHT QUANTUM CIRCUIT -->
+
+    <div class="q-wire wire-2"></div>
+
+    <span class="q-state state-1">|1⟩</span>
+
+    <span class="q-gate gate-h2">H</span>
+
+    <span class="q-node node-2"></span>
+
+    <span class="q-gate gate-z">Z</span>
+
+
+    <!-- Entanglement Connection -->
+
+    <div class="entangle-line"></div>
+
+
+    <!-- Moving Quantum Particles -->
+
+    <span class="q-particle particle-1"></span>
+
+    <span class="q-particle particle-2"></span>
+
+
+    <!-- Quantum Orbits -->
+
+    <div class="quantum-orbit orbit-left">
+      <span></span>
+    </div>
+
+    <div class="quantum-orbit orbit-right">
+      <span></span>
+    </div>
+
+  </div>
+
+
+  <!-- WEBSITE TITLE -->
+
+  <h1 class="project-name">
+    {{ site.title | default: site.github.repository_name }}
+  </h1>
+
+
+  <!-- WEBSITE SUBTITLE -->
+
+  <h2 class="project-tagline">
+    {{ site.description | default: site.github.project_tagline }}
+  </h2>
+
+</header>
+
+
+<!-- ====================================== -->
+<!-- MAIN WEBSITE CONTENT                   -->
+<!-- ====================================== -->
+
+<main id="content" class="main-content" role="main">
+
+  {{ content }}
+
+</main>
+
+</body>
+
+</html>
