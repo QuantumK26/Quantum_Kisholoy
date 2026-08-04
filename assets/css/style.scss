@@ -3,93 +3,482 @@
 
 @import "{{ site.theme }}";
 
-/* Hide "View on GitHub" button */
+/* =========================================
+   HIDE GITHUB BUTTON
+   ========================================= */
+
 .btn {
   display: none !important;
 }
 
+
 /* =========================================
-   ANIMATED CONFERENCE HEADER
+   QUANTUM HEADER
    ========================================= */
 
 .page-header {
-  padding: 2rem 1rem !important;
-
-  /* Animated gradient */
-  background: linear-gradient(
-    120deg,
-    #155799,
-    #159957,
-    #1769aa,
-    #159957
-  );
-
-  background-size: 300% 300%;
-  animation: quantumGradient 10s ease infinite;
-
+  position: relative;
   overflow: hidden;
+  padding: 2.2rem 1rem !important;
+
+  background:
+    radial-gradient(circle at 15% 50%,
+      rgba(80, 255, 220, 0.16),
+      transparent 25%),
+    radial-gradient(circle at 85% 45%,
+      rgba(80, 180, 255, 0.18),
+      transparent 25%),
+    linear-gradient(120deg, #155799, #159957);
 }
 
 
-/* Moving gradient animation */
-@keyframes quantumGradient {
-  0% {
-    background-position: 0% 50%;
-  }
+/* Keep title above animation */
 
-  50% {
-    background-position: 100% 50%;
-  }
-
-  100% {
-    background-position: 0% 50%;
-  }
+.project-name,
+.project-tagline {
+  position: relative;
+  z-index: 10;
 }
-
-
-/* =========================================
-   TITLE ANIMATION
-   ========================================= */
 
 .project-name {
   margin-top: 0 !important;
-  margin-bottom: 0.5rem !important;
+  margin-bottom: 0.4rem !important;
 
-  animation: titleEntrance 1.2s ease-out;
+  text-shadow:
+    0 0 8px rgba(255,255,255,0.25),
+    0 0 20px rgba(100,255,230,0.25);
 }
-
-@keyframes titleEntrance {
-  from {
-    opacity: 0;
-    transform: translateY(-20px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-
-/* =========================================
-   SUBTITLE ANIMATION
-   ========================================= */
 
 .project-tagline {
   margin-top: 0.5rem !important;
   margin-bottom: 0 !important;
-
-  animation: subtitleEntrance 1.6s ease-out;
 }
 
-@keyframes subtitleEntrance {
-  from {
+
+/* =========================================
+   QUANTUM CIRCUIT CONTAINER
+   ========================================= */
+
+.quantum-circuit {
+  position: absolute;
+  inset: 0;
+
+  width: 100%;
+  height: 100%;
+
+  z-index: 1;
+  opacity: 0.55;
+
+  pointer-events: none;
+}
+
+
+/* =========================================
+   CIRCUIT WIRES
+   ========================================= */
+
+.q-wire {
+  position: absolute;
+  height: 2px;
+
+  background: rgba(255, 255, 255, 0.5);
+
+  box-shadow:
+    0 0 6px rgba(150, 255, 240, 0.7);
+}
+
+
+/* Left circuit */
+
+.wire-1 {
+  top: 32%;
+  left: 4%;
+  width: 36%;
+}
+
+
+/* Right circuit */
+
+.wire-2 {
+  top: 70%;
+  right: 4%;
+  width: 36%;
+}
+
+
+/* =========================================
+   QUANTUM STATES |0> AND |1>
+   ========================================= */
+
+.q-state {
+  position: absolute;
+
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: bold;
+
+  color: rgba(255, 255, 255, 0.9);
+
+  text-shadow:
+    0 0 8px rgba(150, 255, 240, 0.9);
+}
+
+
+.state-0 {
+  left: 5%;
+  top: 21%;
+}
+
+
+.state-1 {
+  right: 36%;
+  top: 58%;
+}
+
+
+/* =========================================
+   QUANTUM GATES
+   ========================================= */
+
+.q-gate {
+  position: absolute;
+
+  width: 32px;
+  height: 32px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 2px solid rgba(255,255,255,0.8);
+  border-radius: 4px;
+
+  background: rgba(255,255,255,0.08);
+
+  color: white;
+
+  font-family: monospace;
+  font-size: 17px;
+  font-weight: bold;
+
+  box-shadow:
+    0 0 8px rgba(100,255,230,0.5);
+
+  animation: gateGlow 2.5s ease-in-out infinite;
+}
+
+
+.gate-h {
+  left: 13%;
+  top: calc(32% - 16px);
+}
+
+
+.gate-x {
+  left: 31%;
+  top: calc(32% - 16px);
+}
+
+
+.gate-h2 {
+  right: 27%;
+  top: calc(70% - 16px);
+}
+
+
+.gate-z {
+  right: 10%;
+  top: calc(70% - 16px);
+}
+
+
+/* =========================================
+   QUBIT / CONTROL NODES
+   ========================================= */
+
+.q-node {
+  position: absolute;
+
+  width: 12px;
+  height: 12px;
+
+  border-radius: 50%;
+
+  background: white;
+
+  box-shadow:
+    0 0 6px white,
+    0 0 16px rgba(100,255,230,1);
+}
+
+
+.node-1 {
+  left: 23%;
+  top: calc(32% - 6px);
+}
+
+
+.node-2 {
+  left: 23%;
+  top: calc(70% - 6px);
+}
+
+
+/* =========================================
+   ENTANGLEMENT LINE
+   ========================================= */
+
+.entangle-line {
+  position: absolute;
+
+  left: calc(23% + 5px);
+  top: 32%;
+
+  width: 2px;
+  height: 38%;
+
+  background: rgba(255,255,255,0.6);
+
+  box-shadow:
+    0 0 8px rgba(100,255,230,0.8);
+}
+
+
+/* =========================================
+   MOVING QUANTUM PARTICLES
+   ========================================= */
+
+.q-particle {
+  position: absolute;
+
+  width: 9px;
+  height: 9px;
+
+  border-radius: 50%;
+
+  background: white;
+
+  box-shadow:
+    0 0 6px white,
+    0 0 14px #7ffff0,
+    0 0 25px #7ffff0;
+}
+
+
+.particle-1 {
+  top: calc(32% - 4px);
+  left: 5%;
+
+  animation: particleMove1 5s linear infinite;
+}
+
+
+.particle-2 {
+  top: calc(70% - 4px);
+  right: 38%;
+
+  animation: particleMove2 6s linear infinite;
+}
+
+
+/* Particle moving left to right */
+
+@keyframes particleMove1 {
+
+  0% {
+    left: 5%;
     opacity: 0;
-    transform: translateY(15px);
+  }
+
+  10% {
+    opacity: 1;
+  }
+
+  90% {
+    opacity: 1;
+  }
+
+  100% {
+    left: 39%;
+    opacity: 0;
+  }
+}
+
+
+/* Second moving particle */
+
+@keyframes particleMove2 {
+
+  0% {
+    right: 38%;
+    opacity: 0;
+  }
+
+  10% {
+    opacity: 1;
+  }
+
+  90% {
+    opacity: 1;
+  }
+
+  100% {
+    right: 5%;
+    opacity: 0;
+  }
+}
+
+
+/* =========================================
+   QUANTUM ORBITS
+   ========================================= */
+
+.quantum-orbit {
+  position: absolute;
+
+  width: 90px;
+  height: 45px;
+
+  border: 1px solid rgba(255,255,255,0.35);
+
+  border-radius: 50%;
+
+  animation: orbitRotate 7s linear infinite;
+}
+
+
+.orbit-left {
+  left: 3%;
+  bottom: 10%;
+}
+
+
+.orbit-right {
+  right: 4%;
+  top: 12%;
+}
+
+
+.quantum-orbit span {
+  position: absolute;
+
+  width: 8px;
+  height: 8px;
+
+  border-radius: 50%;
+
+  background: white;
+
+  top: 18px;
+  left: -4px;
+
+  box-shadow:
+    0 0 8px white,
+    0 0 18px #7ffff0;
+}
+
+
+@keyframes orbitRotate {
+
+  from {
+    transform: rotate(0deg);
   }
 
   to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* =========================================
+   GATE GLOW ANIMATION
+   ========================================= */
+
+@keyframes gateGlow {
+
+  0%,
+  100% {
+    box-shadow:
+      0 0 5px rgba(100,255,230,0.4);
+  }
+
+  50% {
+    box-shadow:
+      0 0 18px rgba(100,255,230,1);
+  }
+}
+
+
+/* =========================================
+   QUANTUM LIGHT BELOW TITLE
+   ========================================= */
+
+.project-name::after {
+  content: "";
+
+  display: block;
+
+  width: 70px;
+  height: 2px;
+
+  margin: 9px auto 0;
+
+  background: linear-gradient(
+    90deg,
+    transparent,
+    #9ffff0,
+    white,
+    #9ffff0,
+    transparent
+  );
+
+  box-shadow:
+    0 0 8px rgba(100,255,230,0.8);
+
+  animation: quantumLine 3s ease-in-out infinite;
+}
+
+
+@keyframes quantumLine {
+
+  0%,
+  100% {
+    width: 60px;
+    opacity: 0.5;
+  }
+
+  50% {
+    width: 180px;
     opacity: 1;
-    transform: translateY(0);
+  }
+}
+
+
+/* =========================================
+   MOBILE VERSION
+   ========================================= */
+
+@media screen and (max-width: 600px) {
+
+  .page-header {
+    padding: 1.5rem 0.7rem !important;
+  }
+
+  .project-name {
+    font-size: 1.8rem !important;
+  }
+
+  .project-tagline {
+    font-size: 1rem !important;
+  }
+
+  .quantum-circuit {
+    opacity: 0.35;
+  }
+
+  .gate-x,
+  .gate-z,
+  .orbit-right {
+    display: none;
   }
 }
