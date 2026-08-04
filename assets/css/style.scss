@@ -3,24 +3,93 @@
 
 @import "{{ site.theme }}";
 
-/* Hide "View on GitHub" button globally across ALL header banners */
+/* Hide "View on GitHub" button */
 .btn {
   display: none !important;
 }
 
-/* Reduce the height of the top banner */
+/* =========================================
+   ANIMATED CONFERENCE HEADER
+   ========================================= */
+
 .page-header {
   padding: 2rem 1rem !important;
+
+  /* Animated gradient */
+  background: linear-gradient(
+    120deg,
+    #155799,
+    #159957,
+    #1769aa,
+    #159957
+  );
+
+  background-size: 300% 300%;
+  animation: quantumGradient 10s ease infinite;
+
+  overflow: hidden;
 }
 
-/* Reduce spacing around the conference title */
+
+/* Moving gradient animation */
+@keyframes quantumGradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+
+/* =========================================
+   TITLE ANIMATION
+   ========================================= */
+
 .project-name {
   margin-top: 0 !important;
   margin-bottom: 0.5rem !important;
+
+  animation: titleEntrance 1.2s ease-out;
 }
 
-/* Reduce spacing around the subtitle */
+@keyframes titleEntrance {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/* =========================================
+   SUBTITLE ANIMATION
+   ========================================= */
+
 .project-tagline {
   margin-top: 0.5rem !important;
   margin-bottom: 0 !important;
+
+  animation: subtitleEntrance 1.6s ease-out;
+}
+
+@keyframes subtitleEntrance {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
