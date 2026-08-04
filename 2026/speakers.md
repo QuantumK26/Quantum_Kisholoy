@@ -9,7 +9,7 @@ title: "VCQC 2026 - Registration"
 
 # List of speakers
 
-### Prof. R. Srikanth
+### [Prof. R. Srikanth](https://scholar.google.com/citations?user=q8qhgkwAAAAJ&hl=en&oi=ao)
 **Poornaprajna Institute of Scientific Research (PPISR)**  
 Bengaluru, India
 
@@ -21,18 +21,18 @@ Jodhpur, India
 
 ---
 
-### Dr. Bibhas Adhikari
+### [Dr. Bibhas Adhikari](https://scholar.google.com/citations?user=zsFBSYEAAAAJ&hl=en&oi=ao)
 **Fujitsu Research of America, Inc.**  
 USA
 
 ---
 
-### Dr. Shantanav Chakraborty
+### [Dr. Shantanav Chakraborty](https://scholar.google.com/citations?user=NXOEEbcAAAAJ&hl=en&oi=ao)
 **International Institute of Information Technology (IIIT) Hyderabad**  
 Hyderabad, India
 
 ---
 
-### Dr. Anindita Bera
+### [Dr. Anindita Bera](https://scholar.google.com/citations?hl=en&user=uPC1E2cAAAAJ&view_op=list_works&sortby=pubdate)
 **Birla Institute of Technology (BIT) Mesra**  
 Ranchi, India
