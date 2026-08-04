@@ -9,24 +9,60 @@ title: "Quantum Kisholoy - I"
 
 # 1st Virtual Conference on Quantum Computing (VCQC 2026)
 
-### Organizing Host
+<div style="display: flex; gap: 40px; align-items: flex-start;">
+
+<!-- LEFT SIDE -->
+<div style="flex: 1;">
+
+<h2>Organizing Host</h2>
+
 <div style="display: flex; align-items: center; gap: 15px;">
-  <img src="/Quantum_Kisholoy/assets/2026/Logo_NITA.png" alt="Institute Logo" width="100">
-  <div>
-    <h3>Department of Physics</h3>
-    <p>National Institute of Technology / IISER, India</p>
-  </div>
+
+<img src="/Quantum_Kisholoy/assets/2026/Logo_NITA.png" 
+     alt="NIT Agartala Logo" 
+     width="100">
+
+<div>
+<h3>Department of Mathematics</h3>
+<p>
+<strong>National Institute of Technology Agartala</strong><br>
+Tripura, India
+</p>
+</div>
+
+</div>
+
+<p>
+<strong>Dates:</strong> October 15–17, 2026<br>
+<strong>Mode:</strong> Online (YouTube Live)<br>
+<strong>Registration Fee:</strong> NIL (Free)
+</p>
+
 </div>
 
 
-* **Dates:** October 15–17, 2026  
-* **Mode:** Online (YouTube Live)  
-* **Registration Fee:** NIL (Free)
+<!-- RIGHT SIDE -->
+<div style="flex: 1; border-left: 1px solid #ddd; padding-left: 30px;">
+
+<h2>About the Conference</h2>
+
+<p>
+Welcome to <strong>VCQC 2026</strong>. This virtual conference brings 
+together researchers, students, academicians, and educators working 
+in quantum computing.
+</p>
+
+<p>
+The conference provides a platform for exchanging ideas, presenting 
+research, and discussing recent developments in quantum computing 
+and related areas.
+</p>
+
+</div>
+
+</div>
 
 ---
-
-## About the Conference
-Welcome to VCQC 2026. This virtual conference brings together researchers, students, and educators working in quantum computing.
 
 ## Pages
 * **[Keynote & Invited Speakers](./speakers)**
