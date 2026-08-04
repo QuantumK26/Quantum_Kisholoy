@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "VCQC 2026 - Registration"
+title: "Quantum Kisholoy - I"
 ---
 
 [Home](./) | [Speakers](./speakers) | [Committee](./committee) |[Registration](./registration) | [Main Portal](/Quantum_Kisholoy/)
