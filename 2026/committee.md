@@ -10,69 +10,102 @@ title: "VCQC 2026 - Committee"
 # VCQC 2026 Committees
 
 <details>
-<summary><strong>▶ Organizing Committee</strong></summary>
+<summary><strong>Organizing Committee</strong></summary>
 
-### Chief Patron
+<br>
 
-[Prof. Sarat Kumar Patra](https://scholar.google.com/citations?user=6vFfeb4AAAAJ&hl=en&oi=ao)  
-**Director, NIT Agartala**
+<h3>Chief Patron</h3>
 
-### Patrons
+<a href="https://scholar.google.com/citations?user=6vFfeb4AAAAJ&hl=en&oi=ao">
+Prof. Sarat Kumar Patra
+</a><br>
+<strong>Director, NIT Agartala</strong>
 
-[Dr. Soma Nag](https://scholar.google.com/citations?user=6I9xA20AAAAJ&hl=en&oi=ao)  
-**Dean (Academic Affairs), NIT Agartala**
+<h3>Patrons</h3>
 
-[Dr. Biswajit Saha](https://scholar.google.com/citations?user=e4nJgnEAAAAJ&hl=en&oi=ao)  
-**Dean (R & C - DRNC), NIT Agartala**
+<a href="https://scholar.google.com/citations?user=6I9xA20AAAAJ&hl=en&oi=ao">
+Dr. Soma Nag
+</a><br>
+<strong>Dean (Academic Affairs), NIT Agartala</strong>
 
-### General Chair
+<br><br>
 
-[Prof. (Dr.) Uttam Kumar Bera](https://scholar.google.com/citations?user=SaD-oXQAAAAJ&hl=en&oi=ao)  
-**HoD, Department of Mathematics, NIT Agartala**
+<a href="https://scholar.google.com/citations?user=e4nJgnEAAAAJ&hl=en&oi=ao">
+Dr. Biswajit Saha
+</a><br>
+<strong>Dean (R & C - DRNC), NIT Agartala</strong>
 
-### Conveners
+<h3>General Chair</h3>
 
-[Dr. Supriyo Dutta](https://scholar.google.com/citations?user=1mpM8K0AAAAJ&hl=en&oi=ao)  
-**Department of Mathematics, NIT Agartala**
+<a href="https://scholar.google.com/citations?user=SaD-oXQAAAAJ&hl=en&oi=ao">
+Prof. (Dr.) Uttam Kumar Bera
+</a><br>
+<strong>HoD, Department of Mathematics, NIT Agartala</strong>
 
-[Dr. Amrita Mandal](https://scholar.google.com/citations?user=uCyCaSIAAAAJ&hl=en&oi=ao)  
-**Department of Mathematics, NIT Agartala**
+<h3>Conveners</h3>
+
+<a href="https://scholar.google.com/citations?user=1mpM8K0AAAAJ&hl=en&oi=ao">
+Dr. Supriyo Dutta
+</a><br>
+<strong>Department of Mathematics, NIT Agartala</strong>
+
+<br><br>
+
+<a href="https://scholar.google.com/citations?user=uCyCaSIAAAAJ&hl=en&oi=ao">
+Dr. Amrita Mandal
+</a><br>
+<strong>Department of Mathematics, NIT Agartala</strong>
+
+<br><br>
 
 </details>
 
 ---
 
 <details>
-<summary><strong>▶ Advisory Committee</strong></summary>
+<summary><strong>Advisory Committee</strong></summary>
 
-### Members
+<br>
 
-**Prof. Prasanta K. Panigrahi**  
+<h3>Members</h3>
+
+<strong>Prof. Prasanta K. Panigrahi</strong><br>
 Director, QCC, SOA
 
-*More members will be updated soon.*
+<br><br>
+
+<em>More members will be updated soon.</em>
+
+<br><br>
 
 </details>
 
 ---
 
 <details>
-<summary><strong>▶ Working Committee</strong></summary>
+<summary><strong>Working Committee</strong></summary>
 
-### Members
+<br>
 
-**Dr. Member Name 1**  
+<h3>Members</h3>
+
+<strong>Dr. Member Name 1</strong><br>
 NIT Agartala
 
-**Dr. Member Name 2**  
+<br><br>
+
+<strong>Dr. Member Name 2</strong><br>
 NIT Agartala
 
-**Dr. Member Name 3**  
+<br><br>
+
+<strong>Dr. Member Name 3</strong><br>
 NIT Agartala
 
-**Dr. Member Name 4**  
-NIT Agartala
+<br><br>
 
-*More members will be updated soon.*
+<em>More members will be updated soon.</em>
+
+<br><br>
 
 </details>
