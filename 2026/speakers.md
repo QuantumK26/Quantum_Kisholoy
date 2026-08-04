@@ -9,4 +9,5 @@ title: "VCQC 2026 - Registration"
 
 # List of speakers
 
-This page will be updated soon
+Prof. R. Srikanth
+PPISR, Bengaluru, Indi
