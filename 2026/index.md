@@ -58,10 +58,24 @@ This conference represents a pioneering initiative, being the first of its kind 
 </div>
 
 ------
-## Pages
-* **[Keynote & Invited Speakers](./speakers)**
-* **[Registration & Abstract Submission](./registration)**
+## Quick Links
 
+🎤 **[Keynote & Invited Speakers](./speakers)** &nbsp;&nbsp; | &nbsp;&nbsp;
+👥 **[Conference Committee](./committee)** &nbsp;&nbsp; | &nbsp;&nbsp;
+📝 **[Registration & Abstract Submission](./registration)**
 
-## Scan the QR code for further details of the conference
-![QR Code](/Quantum_Kisholoy/assets/2026/QR_code_2026.png)
+---
+
+## Conference Details
+
+<div style="display: flex; align-items: center; gap: 20px;">
+
+<img src="/Quantum_Kisholoy/assets/2026/QR_code_2026.png"
+     alt="VCQC 2026 QR Code"
+     width="120">
+
+<div>
+<strong>Scan the QR code for further details of the conference</strong>
+</div>
+
+</div>
