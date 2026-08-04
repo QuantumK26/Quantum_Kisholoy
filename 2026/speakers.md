@@ -15,7 +15,7 @@ Bengaluru, India
 
 ---
 
-### Prof. Subhashish Banerjee
+### [Prof. Subhashish Banerjee](https://scholar.google.com/citations?user=UU9KftAAAAAJ&hl=en&oi=ao)
 **Indian Institute of Technology (IIT) Jodhpur**  
 Jodhpur, India
 
