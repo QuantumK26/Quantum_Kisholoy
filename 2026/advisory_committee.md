@@ -9,6 +9,6 @@ title: "VCQC 2026 - Registration"
 
 # Committee Members
 
-### Prof. Prasanta K. Panigrahi
+### [Prof. Prasanta K. Panigrahi](https://scholar.google.com/citations?user=sNq6fwwAAAAJ&hl=en&oi=ao)
 **Director, Quantum Computing Centre (QCC)**  
 Siksha 'O' Anusandhan (SOA), India
