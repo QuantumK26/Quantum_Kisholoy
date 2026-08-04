@@ -7,8 +7,6 @@ title: "Quantum Kisholoy - I"
 
 ---
 
-# 1st Virtual Conference on Quantum Computing (VCQC 2026)
-
 <div style="display: flex; gap: 40px; align-items: flex-start;">
 
 <!-- LEFT SIDE -->
