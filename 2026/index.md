@@ -7,53 +7,91 @@ title: "Quantum Kisholoy - I"
 
 ---
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
+<div style="display: flex; gap: 30px; align-items: flex-start;">
 
-<!-- LEFT SIDE -->
-<div style="flex: 1;">
+<!-- LEFT SIDE: ORGANIZING HOST -->
+<div style="flex: 0 0 28%;">
 
 <h2>Organizing Host</h2>
 
-<div style="display: flex; align-items: center; gap: 15px;">
+<div style="text-align: center;">
 
-<img src="/Quantum_Kisholoy/assets/2026/Logo_NITA.png" 
-     alt="NIT Agartala Logo" 
+<img src="/Quantum_Kisholoy/assets/2026/Logo_NITA.png"
+     alt="NIT Agartala Logo"
      width="100">
 
-<div>
 <h3>Department of Mathematics</h3>
+
 <p>
 <strong>National Institute of Technology Agartala</strong><br>
 Tripura, India
 </p>
-</div>
 
 </div>
+
+<hr>
 
 <p>
-<strong>Dates:</strong> October 15–17, 2026<br>
-<strong>Mode:</strong> Online (YouTube Live)<br>
-<strong>Registration Fee:</strong> NIL (Free)
+<strong>📅 Dates</strong><br>
+October 15–17, 2026
+</p>
+
+<p>
+<strong>💻 Mode</strong><br>
+Online (YouTube Live)
+</p>
+
+<p>
+<strong>💰 Registration Fee</strong><br>
+NIL (Free)
 </p>
 
 </div>
 
 
-<!-- RIGHT SIDE -->
+<!-- RIGHT SIDE: ABOUT -->
 <div style="flex: 1; border-left: 1px solid #ddd; padding-left: 30px;">
 
 <h2>About the Conference</h2>
 
 <p>
-Welcome to <strong>VCQC 2026</strong>. This virtual conference brings 
-together researchers, students, academicians, and educators working 
-in quantum computing.
+<strong>“Kisholoy”</strong> is a Bengali word meaning a 
+<em>“fresh new leaf.”</em> Derived from Sanskrit, it metaphorically 
+represents youth, warmth, new beginnings, and the emergence of a 
+vibrant new life.
 </p>
 
 <p>
-The conference provides a platform for exchanging ideas, presenting 
-research, and discussing recent developments in quantum computing 
-and related areas.
+Inspired by this spirit, <strong>Quantum Kisholoy – VCQC 2026</strong> 
+aims to provide a platform for young Indian researchers working in 
+<strong>Quantum Information and Quantum Computing</strong> at 
+universities and research institutions across the world to present 
+their research, exchange ideas, and interact with the wider quantum 
+community.
+</p>
+
+<p>
+The conference particularly welcomes 
+<strong>undergraduate and postgraduate students, PhD scholars, 
+postdoctoral fellows, early-career faculty members, and young 
+researchers</strong>.
+</p>
+
+<p>
+VCQC 2026 represents a pioneering initiative as one of the first 
+conferences of its kind to be organized from 
+<strong>North-Eastern India</strong>. To make the conference widely 
+accessible, it will be conducted entirely <strong>online</strong>, 
+and the <strong>registration fee has been waived</strong> for all 
+participants.
+</p>
+
+<p>
+The conference also seeks to bring together researchers from both 
+<strong>academia and industry</strong>. Along with academic experts, 
+speakers from the quantum technology industry will be invited to 
+share their knowledge, experiences, and perspectives on emerging 
+developments in the field.
 </p>
 
 </div>
