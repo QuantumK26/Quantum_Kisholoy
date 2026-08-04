@@ -70,43 +70,12 @@ NIL (Free)
 <h2>About the Conference</h2>
 
 <p>
-<strong>“Kisholoy”</strong> is a Bengali word meaning a 
-<em>“fresh new leaf.”</em> Derived from Sanskrit, it metaphorically 
-represents youth, warmth, new beginnings, and the emergence of a 
-vibrant new life.
+<strong>“Kisholoy”</strong> is a Bengali word that translates to a <em>“fresh new leaf”</em> derived from Sanskrit, it metaphorically 
+signifies youth, warmth, new beginnings, and the beginning of a vibrant new life. The conference, <strong>Quantum Kisholoy</strong>, wants to provide a platform to all the young Indian researchers in quantum information and computation working at different universities all over the world where they can present their research work. Therefore, the members of our audience will be the young researchers which including the undergraduate students, post graduate students, PhD scholars, Post-doctoral fellows, and assistant professors.
 </p>
 
 <p>
-Inspired by this spirit, <strong>Quantum Kisholoy – VCQC 2026</strong> 
-aims to provide a platform for young Indian researchers working in 
-<strong>Quantum Information and Quantum Computing</strong> at 
-universities and research institutions across the world to present 
-their research, exchange ideas, and interact with the wider quantum 
-community.
-</p>
-
-<p>
-The conference particularly welcomes 
-<strong>undergraduate and postgraduate students, PhD scholars, 
-postdoctoral fellows, early-career faculty members, and young 
-researchers</strong>.
-</p>
-
-<p>
-VCQC 2026 represents a pioneering initiative as one of the first 
-conferences of its kind to be organized from 
-<strong>North-Eastern India</strong>. To make the conference widely 
-accessible, it will be conducted entirely <strong>online</strong>, 
-and the <strong>registration fee has been waived</strong> for all 
-participants.
-</p>
-
-<p>
-The conference also seeks to bring together researchers from both 
-<strong>academia and industry</strong>. Along with academic experts, 
-speakers from the quantum technology industry will be invited to 
-share their knowledge, experiences, and perspectives on emerging 
-developments in the field.
+This conference represents a pioneering initiative, being the first of its kind to be hosted in North-Eastern India. The conference is open access, and hence registration fee for the participants have been waived. Also, to make the conference accessible world-wise, we keep it online. Moreover we are interested to include the researchers in academia as well as in industry for the conference. In this conference we shall invite industry speakers also.
 </p>
 
 </div>
@@ -114,10 +83,6 @@ developments in the field.
 </div>
 
 ------
-
-## Pages
-* **[Keynote & Invited Speakers](./speakers)**
-* **[Registration & Abstract Submission](./registration)**
 
 
 ## Scan the QR code for further details of the conference
