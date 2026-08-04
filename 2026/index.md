@@ -31,21 +31,11 @@ Tripura, India
 
 <hr>
 
-<p>
-<strong>📅 Dates</strong><br>
-October 15–17, 2026
+<p style="line-height: 1.8;">
+📅 <strong>Dates:</strong> October 15–17, 2026<br>
+💻 <strong>Mode:</strong> Online (YouTube Live)<br>
+💰 <strong>Registration:</strong> NIL (Free)
 </p>
-
-<p>
-<strong>💻 Mode</strong><br>
-Online (YouTube Live)
-</p>
-
-<p>
-<strong>💰 Registration Fee</strong><br>
-NIL (Free)
-</p>
-
 </div>
 
 
