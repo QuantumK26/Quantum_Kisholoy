@@ -10,102 +10,167 @@ title: "Quantum Kisholoy - I"
 # Committees
 
 <details>
-<summary><strong>Organizing Committee</strong></summary>
+<summary><strong>▶ Organizing Committee</strong></summary>
 
 <br>
 
-<h3>Chief Patron</h3>
+<h2 style="text-align:center;">Organizing Committee</h2>
 
+<!-- CHIEF PATRON -->
+
+<h3 style="text-align:center;">Chief Patron</h3>
+
+<div style="display:flex; justify-content:center; text-align:center;">
+
+<div style="width:220px; padding:10px;">
 <a href="https://scholar.google.com/citations?user=6vFfeb4AAAAJ&hl=en&oi=ao">
-Prof. Sarat Kumar Patra
+<strong>Prof. Sarat Kumar Patra</strong>
 </a><br>
-<strong>Director, NIT Agartala</strong>
+Director, NIT Agartala
+</div>
 
-<h3>Patrons</h3>
+</div>
 
+
+<!-- PATRONS -->
+
+<h3 style="text-align:center;">Patrons</h3>
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; text-align:center;">
+
+<div style="width:220px; padding:10px;">
 <a href="https://scholar.google.com/citations?user=6I9xA20AAAAJ&hl=en&oi=ao">
-Dr. Soma Nag
+<strong>Dr. Soma Nag</strong>
 </a><br>
-<strong>Dean (Academic Affairs), NIT Agartala</strong>
+Dean (Academic Affairs)<br>
+NIT Agartala
+</div>
 
-<br><br>
-
+<div style="width:220px; padding:10px;">
 <a href="https://scholar.google.com/citations?user=e4nJgnEAAAAJ&hl=en&oi=ao">
-Dr. Biswajit Saha
+<strong>Dr. Biswajit Saha</strong>
 </a><br>
-<strong>Dean (R & C - DRNC), NIT Agartala</strong>
+Dean (R & C - DRNC)<br>
+NIT Agartala
+</div>
 
-<h3>General Chair</h3>
+</div>
 
+
+<!-- GENERAL CHAIR -->
+
+<h3 style="text-align:center;">General Chair</h3>
+
+<div style="display:flex; justify-content:center; text-align:center;">
+
+<div style="width:250px; padding:10px;">
 <a href="https://scholar.google.com/citations?user=SaD-oXQAAAAJ&hl=en&oi=ao">
-Prof. (Dr.) Uttam Kumar Bera
+<strong>Prof. (Dr.) Uttam Kumar Bera</strong>
 </a><br>
-<strong>HoD, Department of Mathematics, NIT Agartala</strong>
+HoD, Department of Mathematics<br>
+NIT Agartala
+</div>
 
-<h3>Conveners</h3>
+</div>
 
+
+<!-- CONVENERS -->
+
+<h3 style="text-align:center;">Conveners</h3>
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; text-align:center;">
+
+<div style="width:220px; padding:10px;">
 <a href="https://scholar.google.com/citations?user=1mpM8K0AAAAJ&hl=en&oi=ao">
-Dr. Supriyo Dutta
+<strong>Dr. Supriyo Dutta</strong>
 </a><br>
-<strong>Department of Mathematics, NIT Agartala</strong>
+Department of Mathematics<br>
+NIT Agartala
+</div>
 
-<br><br>
-
+<div style="width:220px; padding:10px;">
 <a href="https://scholar.google.com/citations?user=uCyCaSIAAAAJ&hl=en&oi=ao">
-Dr. Amrita Mandal
+<strong>Dr. Amrita Mandal</strong>
 </a><br>
-<strong>Department of Mathematics, NIT Agartala</strong>
+Department of Mathematics<br>
+NIT Agartala
+</div>
 
-<br><br>
+</div>
+
+<br>
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Advisory Committee</strong></summary>
+<summary><strong>▶ Advisory Committee</strong></summary>
 
 <br>
 
-<h3>Members</h3>
+<h2 style="text-align:center;">Advisory Committee</h2>
 
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; text-align:center;">
+
+<div style="width:220px; padding:10px;">
 <strong>Prof. Prasanta K. Panigrahi</strong><br>
-Director, QCC, SOA
+Director, QCC<br>
+SOA
+</div>
 
-<br><br>
+<div style="width:220px; padding:10px;">
+<strong>Prof. Member Name</strong><br>
+Institute Name
+</div>
 
+<div style="width:220px; padding:10px;">
+<strong>Prof. Member Name</strong><br>
+Institute Name
+</div>
+
+</div>
+
+<br>
+
+<p style="text-align:center;">
 <em>More members will be updated soon.</em>
-
-<br><br>
+</p>
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Working Committee</strong></summary>
+<summary><strong>▶ Working Committee</strong></summary>
 
 <br>
 
-<h3>Members</h3>
+<h2 style="text-align:center;">Working Committee</h2>
 
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; text-align:center;">
+
+<div style="width:200px; padding:10px;">
 <strong>Dr. Member Name 1</strong><br>
 NIT Agartala
+</div>
 
-<br><br>
-
+<div style="width:200px; padding:10px;">
 <strong>Dr. Member Name 2</strong><br>
 NIT Agartala
+</div>
 
-<br><br>
-
+<div style="width:200px; padding:10px;">
 <strong>Dr. Member Name 3</strong><br>
 NIT Agartala
+</div>
 
-<br><br>
+</div>
 
+<br>
+
+<p style="text-align:center;">
 <em>More members will be updated soon.</em>
-
-<br><br>
+</p>
 
 </details>
