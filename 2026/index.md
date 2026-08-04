@@ -3,7 +3,7 @@ layout: default
 title: "VCQC 2026"
 ---
 
-[VCQC 2026 Home](./) | [Speakers](./speakers) | [Registration](./registration) | [Main Portal](/Quantum_Kisholoy/)
+[VCQC 2026 Home](./) | [Speakers](./speakers) | [Advisory Committee](./advisory_committee) |[Registration](./registration) | [Main Portal](/Quantum_Kisholoy/)
 
 ---
 
