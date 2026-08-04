@@ -1,8 +1,26 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
 /* Hide "View on GitHub" button globally across ALL header banners */
 .btn {
   display: none !important;
+}
+
+/* Reduce the height of the top banner */
+.page-header {
+  padding: 2rem 1rem !important;
+}
+
+/* Reduce spacing around the conference title */
+.project-name {
+  margin-top: 0 !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* Reduce spacing around the subtitle */
+.project-tagline {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0 !important;
 }
