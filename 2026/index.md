@@ -12,7 +12,7 @@ title: "Quantum Kisholoy - I"
 <!-- LEFT SIDE: ORGANIZING HOST -->
 <div style="flex: 0 0 28%;">
 
-<h2>Organized by</h2>
+<h2>Organizing Institution</h2>
 
 <div style="text-align: center;">
 
