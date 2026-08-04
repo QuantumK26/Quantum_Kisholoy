@@ -15,3 +15,29 @@ title: "VCQC 2026"
 ---
 
 ## Patrons
+
+### Dr. Soma Nag
+**Dean (Academic Affairs), NIT Agartala**
+
+### Dr. Biswajit Saha
+**Dean (R & C - DRNC), NIT Agartala**
+
+---
+
+## General Chair
+
+### Prof. (Dr.) Uttam Kumar Bera
+**Head, Department of Mathematics**  
+**NIT Agartala**
+
+---
+
+## Conveners
+
+### Dr. Supriyo Dutta
+**Department of Mathematics**  
+**NIT Agartala**
+
+### Dr. Amrita Mandal
+**Department of Mathematics**  
+**NIT Agartala**
