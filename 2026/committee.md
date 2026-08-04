@@ -14,8 +14,6 @@ title: "Quantum Kisholoy - I"
 
 <br>
 
-<h2 style="text-align:center;">Organizing Committee</h2>
-
 <!-- CHIEF PATRON -->
 
 <h3 style="text-align:center;">Chief Patron</h3>
