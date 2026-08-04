@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "VCQC 2026 - Committee"
+title: "Quantum Kisholoy"
 ---
 
 [VCQC 2026 Home](./) | [Speakers](./speakers) | [Committee](./committee) | [Registration](./registration) | [Main Portal](/Quantum_Kisholoy/)
 
 ---
 
-# VCQC 2026 Committees
+# Committees
 
 <details>
 <summary><strong>Organizing Committee</strong></summary>
