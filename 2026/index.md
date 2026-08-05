@@ -10,7 +10,7 @@ title: "Quantum Kisholoy - I"
 <div style="display: flex; gap: 30px; align-items: flex-start;">
 
 <!-- LEFT SIDE: ORGANIZING HOST -->
-<div style="flex: 0 0 25%;">
+<div style="flex: 0 0 20%;">
 
 <div style="text-align: center;">
 
