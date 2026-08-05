@@ -79,15 +79,23 @@
   <!-- WEBSITE TITLE -->
 
   <h1 class="project-name">
-  Quantum Kisholoy - I
+  {% if page.url == "/" %}
+    Quantum Kisholoy
+  {% else %}
+    Quantum Kisholoy - I
+  {% endif %}
 </h1>
 
   <!-- WEBSITE SUBTITLE -->
 
   <h2 class="project-tagline">
-    {{ site.description | default: site.github.project_tagline }}
-  </h2>
-
+  {% if page.url == "/" %}
+    A Platform for Quantum Computing Conferences
+  {% else %}
+    An International Conference for Young Researchers on Quantum Computing
+  {% endif %}
+</h2>
+  
 </header>
 
 
