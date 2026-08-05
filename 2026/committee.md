@@ -3,7 +3,7 @@ layout: default
 title: "Quantum Kisholoy - I"
 ---
 
-[Home](./) | [Speakers](./speakers) | [Committee](./committee) | [Registration](./registration) | [Main Portal](/Quantum_Kisholoy/)
+[Home](./) | [Speakers](./speakers) | [Committee](./committee) | [Registration](./registration) | [Kisholoy](/Quantum_Kisholoy/)
 
 ---
 
