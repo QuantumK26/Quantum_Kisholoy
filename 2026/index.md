@@ -10,7 +10,7 @@ title: "Quantum Kisholoy - I"
 <div style="display: flex; gap: 30px; align-items: flex-start;">
 
 <!-- LEFT SIDE: ORGANIZING HOST -->
-<div style="flex: 0 0 30%;">
+<div style="flex: 0 0 28%;">
 
 <div style="text-align: center;">
 
@@ -18,11 +18,11 @@ title: "Quantum Kisholoy - I"
      alt="NIT Agartala Logo"
      width="130">
 
-<h3 style="white-space: nowrap; font-size: 20px;">
+<h3 style="white-space: nowrap; font-size: 28px;">
 Department of Mathematics
 </h3>
 
-<p style="white-space: nowrap; font-size: 17px;">
+<p style="white-space: nowrap; font-size: 15px;">
 <strong>National Institute of Technology Agartala</strong>
 </p>
 
