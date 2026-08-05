@@ -12,8 +12,6 @@ title: "Quantum Kisholoy - I"
 <!-- LEFT SIDE: ORGANIZING HOST -->
 <div style="flex: 0 0 28%;">
 
-<h2>Organizing Institution</h2>
-
 <div style="text-align: center;">
 
 <img src="/Quantum_Kisholoy/assets/2026/Logo_NITA.png"
