@@ -14,8 +14,5 @@ The series aims to provide an open platform for sharing research, exchanging ide
 ## Conference Series
 
 ### 🚀 [Quantum Kisholoy - I](./2026/)
-
-**1st Virtual Conference on Quantum Computing (VCQC 2026)**  
-📅 October 15–17, 2026 &nbsp; | &nbsp; 💻 Online &nbsp; | &nbsp; 🆓 Free Registration
-
-**[Enter Conference →](./2026/)**
+  
+📅 To be updated &nbsp; | &nbsp; 💻 Online &nbsp; | &nbsp; 🆓 Free Registration
