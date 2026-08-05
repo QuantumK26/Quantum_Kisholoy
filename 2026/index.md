@@ -16,12 +16,17 @@ title: "Quantum Kisholoy - I"
 
 <img src="/Quantum_Kisholoy/assets/2026/Logo_NITA.png"
      alt="NIT Agartala Logo"
-     width="150">
+     width="130">
 
-<h3>Department of Mathematics</h3>
+<h3 style="white-space: nowrap; font-size: 20px;">
+Department of Mathematics
+</h3>
+
+<p style="white-space: nowrap; font-size: 17px;">
+<strong>National Institute of Technology Agartala</strong>
+</p>
 
 <p>
-<strong>National Institute of Technology Agartala</strong><br>
 Tripura, India
 </p>
 
