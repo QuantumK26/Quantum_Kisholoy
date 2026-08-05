@@ -9,9 +9,9 @@ Welcome to the central portal for the Virtual Conference on Quantum Computing (V
 
 ---
 
-### 🚀 [Go to VCQC 2026 Edition](./2026/)
+### 🚀 [Quantum Kisholoy - I](./2026/)
 
 ---
 
 ## Conference Series Overview
-* **[VCQC 2026](./2026/)** — 1st Virtual Conference on Quantum Computing (*Upcoming*)
+* **[Quantum Kisholoy - I](./2026/)** — 1st Virtual Conference on Quantum Computing (*Upcoming*)
