@@ -10,7 +10,7 @@ title: "Quantum Kisholoy - I"
 <div style="display: flex; gap: 30px; align-items: flex-start;">
 
 <!-- LEFT SIDE: ORGANIZING HOST -->
-<div style="flex: 0 0 28%;">
+<div style="flex: 0 0 25%;">
 
 <div style="text-align: center;">
 
@@ -18,7 +18,7 @@ title: "Quantum Kisholoy - I"
      alt="NIT Agartala Logo"
      width="130">
 
-<h3 style="white-space: nowrap; font-size: 28px;">
+<h3 style="white-space: nowrap; font-size: 18px;">
 Department of Mathematics
 </h3>
 
@@ -27,7 +27,7 @@ Department of Mathematics
 </p>
 
 <p>
-Tripura, India
+Agartala, Jirania, Tripura 799046
 </p>
 
 </div>
