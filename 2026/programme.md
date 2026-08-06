@@ -6,3 +6,15 @@ title: "Quantum Kisholoy - I"
 [Home](./) | [Speakers](./speakers) | [Committee](./committee) | [Programme](./programme) | [Participants](./participants) | [Registration](./registration) | [Kisholoy](/Quantum_Kisholoy/)
 
 ---
+
+# Programme Schedule
+
+The detailed programme schedule for **Quantum Kisholoy - I** will be updated soon.
+
+## Day 1 — To be announced
+
+| Time | Programme | Speaker |
+|:---|:---|:---|
+| To be announced | Inaugural Session | — |
+| To be announced | Keynote / Invited Talk | — |
+| To be announced | Research Presentation | — |
