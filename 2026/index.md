@@ -35,7 +35,7 @@ Agartala, Jirania, Tripura 799046
 <hr>
 
 <p style="line-height: 1.8;">
-📅 <strong>Dates:</strong> October 15–17, 2026<br>
+📅 <strong>Dates:</strong> January 22-24, 2027<br>
 💻 <strong>Mode:</strong> Online (YouTube Live)<br>
 💰 <strong>Registration:</strong> NIL (Free)
 </p>
