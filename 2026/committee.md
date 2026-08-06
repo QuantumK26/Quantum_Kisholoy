@@ -810,7 +810,7 @@ NIT Agartala
   font-size:13px;
 ">
 <strong>Responsibility</strong><br>
-Publicity & Communication
+Food & Logistic
 </p>
 
 </div>
@@ -947,7 +947,7 @@ NIT Agartala
   font-size:13px;
 ">
 <strong>Responsibility</strong><br>
-Logo Designer
+Session & Event Coordination
 </p>
 
 </div>
