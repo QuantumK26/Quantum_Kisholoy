@@ -131,7 +131,7 @@ NIT Agartala
   box-shadow:0 3px 10px rgba(0,0,0,0.07);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/advisory/Prasanta.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Prasanta.jpg"
      alt="Prof. Prasanta K. Panigrahi"
      style="
        position:absolute;
@@ -172,7 +172,7 @@ SOA
   box-shadow:0 3px 10px rgba(0,0,0,0.07);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/advisory/Srikanth.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Srikanth.jpg"
      alt="Prof. R. Srikanth"
      style="
        position:absolute;
@@ -214,7 +214,7 @@ Bengaluru, India
   box-shadow:0 3px 10px rgba(0,0,0,0.07);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/advisory/Subhashis.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Subhashis.jpg"
      alt="Prof. Subhashish Banerjee"
      style="
        position:absolute;
@@ -256,7 +256,7 @@ Jodhpur, India
   box-shadow:0 3px 10px rgba(0,0,0,0.07);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/advisory/Anirban.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Anirban.jpg"
      alt="Prof. Anirban Pathak"
      style="
        position:absolute;
@@ -297,7 +297,7 @@ Noida, India
   box-shadow:0 3px 10px rgba(0,0,0,0.07);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/advisory/Bibhas.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Bibhas.jpg"
      alt="Dr. Bibhas Adhikari"
      style="
        position:absolute;
@@ -339,7 +339,7 @@ USA
   box-shadow:0 3px 10px rgba(0,0,0,0.07);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/advisory/Bhanu.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Bhanu.jpg"
      alt="Prof. Bhanu Pratap Das"
      style="
        position:absolute;
@@ -379,7 +379,7 @@ CQuERE, TCG CREST
   box-shadow:0 3px 10px rgba(0,0,0,0.07);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/advisory/Pankaj.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Pankaj.jpg"
      alt="Prof. Pankaj Agarwal"
      style="
        position:absolute;
@@ -419,7 +419,7 @@ CQuERE, TCG CREST
   box-shadow:0 3px 10px rgba(0,0,0,0.07);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/advisory/Binayak.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Binayak.jpg"
      alt="Prof. Binayak S. Choudhury"
      style="
        position:absolute;
@@ -460,7 +460,7 @@ India
   box-shadow:0 3px 10px rgba(0,0,0,0.07);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/advisory/Alok.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Alok.jpg"
      alt="Dr. Alok Kumar Pan"
      style="
        position:absolute;
@@ -492,6 +492,7 @@ India
 <br>
 
 </details>
+
 ---
 
 <details>
