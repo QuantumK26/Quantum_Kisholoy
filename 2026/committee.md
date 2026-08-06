@@ -500,29 +500,460 @@ India
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; text-align:center;">
+<!-- ===================================== -->
+<!-- FACULTY COORDINATORS                  -->
+<!-- ===================================== -->
 
-<div style="width:200px; padding:10px;">
-<strong>Dr. Member Name 1</strong><br>
+<h3 style="text-align:center;">Faculty Coordinators</h3>
+
+<div style="
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:35px;
+  margin-top:35px;
+  margin-bottom:45px;
+  text-align:center;
+">
+
+<!-- Dr. Supriyo Dutta -->
+
+<div style="
+  width:250px;
+  min-height:135px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:48px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Supriyo.jpg"
+     alt="Dr. Supriyo Dutta"
+     style="
+       position:absolute;
+       top:-35px;
+       left:50%;
+       transform:translateX(-50%);
+       width:70px;
+       height:70px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=1mpM8K0AAAAJ&hl=en&oi=ao"
+   target="_blank">
+<strong>Dr. Supriyo Dutta</strong>
+</a>
+
+<p style="margin:5px 0; font-size:14px;">
+Department of Mathematics<br>
 NIT Agartala
+</p>
+
+<p style="
+  margin:10px 0 0;
+  padding-top:8px;
+  border-top:1px solid #eee;
+  font-size:13px;
+">
+<strong>Role:</strong> Faculty Coordinator
+</p>
+
 </div>
 
-<div style="width:200px; padding:10px;">
-<strong>Dr. Member Name 2</strong><br>
+
+<!-- Dr. Amrita Mandal -->
+
+<div style="
+  width:250px;
+  min-height:135px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:48px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Amrita.jpg"
+     alt="Dr. Amrita Mandal"
+     style="
+       position:absolute;
+       top:-35px;
+       left:50%;
+       transform:translateX(-50%);
+       width:70px;
+       height:70px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=uCyCaSIAAAAJ&hl=en&oi=ao"
+   target="_blank">
+<strong>Dr. Amrita Mandal</strong>
+</a>
+
+<p style="margin:5px 0; font-size:14px;">
+Department of Mathematics<br>
 NIT Agartala
+</p>
+
+<p style="
+  margin:10px 0 0;
+  padding-top:8px;
+  border-top:1px solid #eee;
+  font-size:13px;
+">
+<strong>Role:</strong> Faculty Coordinator
+</p>
+
 </div>
 
-<div style="width:200px; padding:10px;">
-<strong>Dr. Member Name 3</strong><br>
+</div>
+
+
+<!-- ===================================== -->
+<!-- WORKING MEMBERS                       -->
+<!-- ===================================== -->
+
+<h3 style="text-align:center;">Working Members</h3>
+
+<div style="
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:45px 25px;
+  padding-top:30px;
+  text-align:center;
+">
+
+
+<!-- Souvik -->
+
+<div style="
+  width:220px;
+  min-height:145px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.06);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Souvik.jpg"
+     alt="Souvik Giri"
+     style="
+       position:absolute;
+       top:-30px;
+       left:50%;
+       transform:translateX(-50%);
+       width:62px;
+       height:62px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<strong>Souvik Giri</strong>
+
+<p style="margin:5px 0; font-size:13px;">
 NIT Agartala
+</p>
+
+<p style="
+  margin:10px 0 0;
+  padding-top:8px;
+  border-top:1px solid #eee;
+  font-size:13px;
+">
+<strong>Responsibility</strong><br>
+Programme Coordination
+</p>
+
+</div>
+
+
+<!-- Gourav -->
+
+<div style="
+  width:220px;
+  min-height:145px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.06);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Gourav.jpg"
+     alt="Gourav Sinha"
+     style="
+       position:absolute;
+       top:-30px;
+       left:50%;
+       transform:translateX(-50%);
+       width:62px;
+       height:62px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<strong>Gourav Sinha</strong>
+
+<p style="margin:5px 0; font-size:13px;">
+NIT Agartala
+</p>
+
+<p style="
+  margin:10px 0 0;
+  padding-top:8px;
+  border-top:1px solid #eee;
+  font-size:13px;
+">
+<strong>Responsibility</strong><br>
+Documentation & Certificates
+</p>
+
+</div>
+
+
+<!-- Samsur -->
+
+<div style="
+  width:220px;
+  min-height:145px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.06);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Samsur.jpg"
+     alt="Md Samsur Rahaman"
+     style="
+       position:absolute;
+       top:-30px;
+       left:50%;
+       transform:translateX(-50%);
+       width:62px;
+       height:62px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<strong>Md Samsur Rahaman</strong>
+
+<p style="margin:5px 0; font-size:13px;">
+NIT Agartala
+</p>
+
+<p style="
+  margin:10px 0 0;
+  padding-top:8px;
+  border-top:1px solid #eee;
+  font-size:13px;
+">
+<strong>Responsibility</strong><br>
+Website & Technical Support
+</p>
+
+</div>
+
+
+<!-- Krish -->
+
+<div style="
+  width:220px;
+  min-height:145px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.06);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Krish.jpg"
+     alt="Srikrishna Maity"
+     style="
+       position:absolute;
+       top:-30px;
+       left:50%;
+       transform:translateX(-50%);
+       width:62px;
+       height:62px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<strong>Srikrishna Maity</strong>
+
+<p style="margin:5px 0; font-size:13px;">
+NIT Agartala
+</p>
+
+<p style="
+  margin:10px 0 0;
+  padding-top:8px;
+  border-top:1px solid #eee;
+  font-size:13px;
+">
+<strong>Responsibility</strong><br>
+Publicity & Communication
+</p>
+
+</div>
+
+
+<!-- Nur -->
+
+<div style="
+  width:220px;
+  min-height:145px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.06);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Nur pic.png"
+     alt="Nur Mohammad Sanfui"
+     style="
+       position:absolute;
+       top:-30px;
+       left:50%;
+       transform:translateX(-50%);
+       width:62px;
+       height:62px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<strong>Nur Mohammad Sanfui</strong>
+
+<p style="margin:5px 0; font-size:13px;">
+NIT Agartala
+</p>
+
+<p style="
+  margin:10px 0 0;
+  padding-top:8px;
+  border-top:1px solid #eee;
+  font-size:13px;
+">
+<strong>Responsibility</strong><br>
+Registration & Participant Support
+</p>
+
+</div>
+
+
+<!-- Ramday -->
+
+<div style="
+  width:220px;
+  min-height:145px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.06);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Ramday.jpg"
+     alt="Ramday Sutradhar"
+     style="
+       position:absolute;
+       top:-30px;
+       left:50%;
+       transform:translateX(-50%);
+       width:62px;
+       height:62px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<strong>Ramday Sutradhar</strong>
+
+<p style="margin:5px 0; font-size:13px;">
+NIT Agartala
+</p>
+
+<p style="
+  margin:10px 0 0;
+  padding-top:8px;
+  border-top:1px solid #eee;
+  font-size:13px;
+">
+<strong>Responsibility</strong><br>
+Session & Event Coordination
+</p>
+
+</div>
+
+<!-- Priti -->
+
+<div style="
+  width:220px;
+  min-height:145px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.06);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Priti.jpg"
+     alt="Priti"
+     style="
+       position:absolute;
+       top:-30px;
+       left:50%;
+       transform:translateX(-50%);
+       width:62px;
+       height:62px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<strong>Priti</strong>
+
+<p style="margin:5px 0; font-size:13px;">
+NIT Agartala
+</p>
+
+<p style="
+  margin:10px 0 0;
+  padding-top:8px;
+  border-top:1px solid #eee;
+  font-size:13px;
+">
+<strong>Responsibility</strong><br>
+Logo Designer
+</p>
+
 </div>
 
 </div>
 
 <br>
-
-<p style="text-align:center;">
-<em>More members will be updated soon.</em>
-</p>
 
 </details>
