@@ -644,7 +644,7 @@ NIT Agartala
   box-shadow:0 3px 10px rgba(0,0,0,0.06);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/Souvik.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Souvik.jpeg"
      alt="Souvik Giri"
      style="
        position:absolute;
@@ -672,7 +672,7 @@ NIT Agartala
   font-size:13px;
 ">
 <strong>Responsibility</strong><br>
-Programme Coordination
+Poster Designer
 </p>
 
 </div>
@@ -690,7 +690,7 @@ Programme Coordination
   box-shadow:0 3px 10px rgba(0,0,0,0.06);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/Gourav.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Gourav.jpeg"
      alt="Gourav Sinha"
      style="
        position:absolute;
@@ -736,7 +736,7 @@ Documentation & Certificates
   box-shadow:0 3px 10px rgba(0,0,0,0.06);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/Samsur.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Samsur.jpeg"
      alt="Md Samsur Rahaman"
      style="
        position:absolute;
@@ -782,7 +782,7 @@ Website & Technical Support
   box-shadow:0 3px 10px rgba(0,0,0,0.06);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/Krish.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Sri.jpeg"
      alt="Srikrishna Maity"
      style="
        position:absolute;
@@ -828,7 +828,7 @@ Publicity & Communication
   box-shadow:0 3px 10px rgba(0,0,0,0.06);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/Nur pic.png"
+<img src="/Quantum_Kisholoy/assets/2026/nur pic.png"
      alt="Nur Mohammad Sanfui"
      style="
        position:absolute;
@@ -907,7 +907,7 @@ Session & Event Coordination
 
 </div>
 
-<!-- Priti -->
+<!-- Pratyush -->
 
 <div style="
   width:220px;
@@ -920,7 +920,7 @@ Session & Event Coordination
 ">
 
 <img src="/Quantum_Kisholoy/assets/2026/Priti.jpg"
-     alt="Priti"
+     alt="Pratyusha roy"
      style="
        position:absolute;
        top:-30px;
@@ -934,7 +934,7 @@ Session & Event Coordination
        box-shadow:0 0 0 2px #159957;
      ">
 
-<strong>Priti</strong>
+<strong>Pratyusha roy</strong>
 
 <p style="margin:5px 0; font-size:13px;">
 NIT Agartala
