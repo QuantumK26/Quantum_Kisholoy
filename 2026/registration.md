@@ -27,9 +27,6 @@ Registration for **Quantum Kisholoy - I** is open to students, research scholars
 <strong>Registration Fee: NIL (Free)</strong>
 </p>
 
-<p>
-Join us for the <strong>1st Virtual Conference on Quantum Computing (VCQC 2026)</strong>.
-</p>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8TAyY-MuT-_5HEQWeDyQobTM4x5szOjmm70ceZmQUOOQ7tQ/viewform?usp=header"
    target="_blank"
@@ -48,10 +45,3 @@ Join us for the <strong>1st Virtual Conference on Quantum Computing (VCQC 2026)<
 
 </div>
 
-<p style="text-align:center;">
-📅 <strong>October 15–17, 2026</strong>
-&nbsp;&nbsp; | &nbsp;&nbsp;
-💻 <strong>Online</strong>
-&nbsp;&nbsp; | &nbsp;&nbsp;
-🎟️ <strong>Free Registration</strong>
-</p>
