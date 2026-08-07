@@ -46,9 +46,12 @@
       <div>
 
         <h1 class="project-name">
-          {{ page.header_title | default: site.title }}
-        </h1>
-
+  {% if page.url == "/" %}
+    Quantum Kisholoy
+  {% else %}
+    Quantum Kisholoy - I
+  {% endif %}
+</h1>
         {% if page.description or site.description %}
         <h2 class="project-tagline">
           {{ page.description | default: site.description }}
