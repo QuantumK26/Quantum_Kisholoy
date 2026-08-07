@@ -484,20 +484,22 @@
 }
 
 /* =========================================
-   Conference Logo
+   LOGO EFFECT
 ========================================= */
 
 .page-header img {
-  transition: transform .35s ease,
-              box-shadow .35s ease;
+
+  transition: transform .4s ease,
+              filter .4s ease;
+
 }
 
 .page-header img:hover {
 
   transform: rotate(8deg) scale(1.08);
 
-  box-shadow:
-    0 0 15px rgba(255,255,255,.7),
-    0 0 35px rgba(120,255,230,.8);
+  filter:
+    drop-shadow(0 0 12px rgba(255,255,255,.8))
+    drop-shadow(0 0 25px rgba(120,255,230,.9));
 
 }
