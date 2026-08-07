@@ -54,8 +54,12 @@
 </h1>
         {% if page.description or site.description %}
         <h2 class="project-tagline">
-          {{ page.description | default: site.description }}
-        </h2>
+  {% if page.url == "/" %}
+    A Platform for Quantum Computing Conferences
+  {% else %}
+    An International Conference for Young Researchers on Quantum Computing
+  {% endif %}
+</h2>
         {% endif %}
 
       </div>
