@@ -484,42 +484,20 @@
 }
 
 /* =========================================
-   QUANTUM KISHOLOY BACKGROUND WATERMARK
+   Conference Logo
 ========================================= */
 
-body {
-  position: relative;
+.page-header img {
+  transition: transform .35s ease,
+              box-shadow .35s ease;
 }
 
-body::before {
-  content: "";
+.page-header img:hover {
 
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  transform: rotate(8deg) scale(1.08);
 
-  width: 650px;
-  height: 650px;
-
-  background: url("/Quantum_Kisholoy/assets/2026/Clogo.jpeg")
-              center center / contain no-repeat;
-
-  opacity: 0.035;
-
-  z-index: -1;
-
-  pointer-events: none;
-}
-
-/* Smaller watermark on mobile */
-
-@media screen and (max-width: 768px) {
-
-  body::before {
-    width: 320px;
-    height: 320px;
-    opacity: 0.025;
-  }
+  box-shadow:
+    0 0 15px rgba(255,255,255,.7),
+    0 0 35px rgba(120,255,230,.8);
 
 }
