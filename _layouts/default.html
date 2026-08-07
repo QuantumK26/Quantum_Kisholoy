@@ -2,30 +2,71 @@
 <html lang="{{ site.lang | default: "en-US" }}">
 
 <head>
-  <meta charset="UTF-8">
 
-  {% seo %}
+  <meta charset="UTF-8">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="theme-color" content="#157878">
+  {% seo %}
 
   <link rel="stylesheet"
-        href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+        href="{{ '/assets/css/style.css' | relative_url }}">
+
 </head>
 
 <body>
 
-<!-- ====================================== -->
-<!-- QUANTUM KISHOLOY HEADER                -->
-<!-- ====================================== -->
-
 <header class="page-header" role="banner">
 
-  <!-- Quantum Circuit Animation -->
-  <div class="quantum-circuit" aria-hidden="true">
+  <!-- ==============================
+       LOGO + TITLE
+  =============================== -->
 
-    <!-- LEFT QUANTUM CIRCUIT -->
+  <div style="
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      gap:20px;
+      position:relative;
+      z-index:10;
+      flex-wrap:wrap;
+      text-align:left;
+      margin-bottom:15px;
+  ">
+
+      <img src="{{ '/assets/2026/Clogo.jpeg' | relative_url }}"
+           alt="Quantum Kisholoy Logo"
+           style="
+             width:95px;
+             height:95px;
+             object-fit:contain;
+             filter: drop-shadow(0 0 12px rgba(255,255,255,.4));
+           ">
+
+      <div>
+
+        <h1 class="project-name">
+          {{ page.header_title | default: site.title }}
+        </h1>
+
+        {% if page.description or site.description %}
+        <h2 class="project-tagline">
+          {{ page.description | default: site.description }}
+        </h2>
+        {% endif %}
+
+      </div>
+
+  </div>
+
+
+  <!-- ==============================
+       QUANTUM CIRCUIT
+  =============================== -->
+
+  <div class="quantum-circuit">
+
+    <!-- LEFT CIRCUIT -->
 
     <div class="q-wire wire-1"></div>
 
@@ -38,7 +79,7 @@
     <span class="q-gate gate-x">X</span>
 
 
-    <!-- RIGHT QUANTUM CIRCUIT -->
+    <!-- RIGHT CIRCUIT -->
 
     <div class="q-wire wire-2"></div>
 
@@ -51,19 +92,19 @@
     <span class="q-gate gate-z">Z</span>
 
 
-    <!-- Entanglement Connection -->
+    <!-- ENTANGLEMENT -->
 
     <div class="entangle-line"></div>
 
 
-    <!-- Moving Quantum Particles -->
+    <!-- MOVING PARTICLES -->
 
     <span class="q-particle particle-1"></span>
 
     <span class="q-particle particle-2"></span>
 
 
-    <!-- Quantum Orbits -->
+    <!-- ORBITS -->
 
     <div class="quantum-orbit orbit-left">
       <span></span>
@@ -75,37 +116,16 @@
 
   </div>
 
-
-  <!-- WEBSITE TITLE -->
-
-  <h1 class="project-name">
-  {% if page.url == "/" %}
-    Quantum Kisholoy
-  {% else %}
-    Quantum Kisholoy - I
-  {% endif %}
-</h1>
-
-  <!-- WEBSITE SUBTITLE -->
-
-  <h2 class="project-tagline">
-  {% if page.url == "/" %}
-    A Platform for Quantum Computing Conferences
-  {% else %}
-    An International Conference for Young Researchers on Quantum Computing
-  {% endif %}
-</h2>
-  
 </header>
 
 
-<!-- ====================================== -->
-<!-- MAIN WEBSITE CONTENT                   -->
-<!-- ====================================== -->
+<!-- ==============================
+     PAGE CONTENT
+================================ -->
 
 <main id="content" class="main-content" role="main">
 
-  {{ content }}
+{{ content }}
 
 </main>
 
