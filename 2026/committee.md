@@ -15,48 +15,149 @@ title: "Quantum Kisholoy - I"
 <br>
 
 <!-- =========================================
+     COMMON CARD STYLE
+========================================= -->
+
+<style>
+
+.committee-section-title {
+  text-align:center;
+  margin:30px 0 45px;
+  color:#159957;
+}
+
+.committee-grid {
+  display:grid;
+  grid-template-columns:repeat(2, minmax(220px, 280px));
+  justify-content:center;
+  gap:55px 45px;
+  margin-bottom:55px;
+}
+
+.committee-single {
+  display:flex;
+  justify-content:center;
+  margin-bottom:55px;
+}
+
+.committee-card {
+  width:100%;
+  min-height:125px;
+  box-sizing:border-box;
+
+  padding:50px 15px 18px;
+
+  position:relative;
+
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+
+  text-align:center;
+
+  background:white;
+
+  box-shadow:0 3px 10px rgba(0,0,0,0.06);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.committee-card:hover {
+  transform:translateY(-4px);
+  box-shadow:0 7px 18px rgba(0,0,0,0.10);
+}
+
+.committee-photo {
+  position:absolute;
+
+  top:-34px;
+  left:50%;
+
+  transform:translateX(-50%);
+
+  width:66px;
+  height:66px;
+
+  border-radius:50%;
+
+  object-fit:cover;
+
+  border:3px solid white;
+
+  box-shadow:
+    0 0 0 2px #159957,
+    0 3px 8px rgba(0,0,0,0.15);
+}
+
+.committee-name {
+  font-size:18px;
+  font-weight:bold;
+}
+
+.committee-name a {
+  text-decoration:none;
+}
+
+.committee-details {
+  margin:7px 0 0;
+  font-size:14px;
+  line-height:1.5;
+}
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media screen and (max-width:600px) {
+
+  .committee-grid {
+    grid-template-columns:minmax(0, 1fr);
+    gap:55px;
+    margin-left:5px;
+    margin-right:5px;
+  }
+
+  .committee-card {
+    width:100%;
+  }
+
+}
+
+</style>
+
+
+<!-- =========================================
      CHIEF PATRON
 ========================================= -->
 
-<h3 style="text-align:center;">Chief Patron</h3>
+<h3 class="committee-section-title">
+  Chief Patron
+</h3>
 
-<div style="
-  display:flex;
-  justify-content:center;
-  text-align:center;
-  margin-bottom:40px;
-">
+<div class="committee-single">
 
-  <div style="
-    width:240px;
-    padding:45px 15px 15px;
-    position:relative;
-    border:1px solid #d8e2e8;
-    border-radius:12px;
-    box-shadow:0 3px 10px rgba(0,0,0,0.06);
-  ">
+  <div class="committee-card" style="max-width:280px;">
 
-    <img src="/Quantum_Kisholoy/assets/2026/Sarat.jpg"
-         alt="Prof. Sarat Kumar Patra"
-         style="
-           position:absolute;
-           top:-32px;
-           left:50%;
-           transform:translateX(-50%);
-           width:64px;
-           height:64px;
-           border-radius:50%;
-           object-fit:cover;
-           border:3px solid white;
-           box-shadow:0 0 0 2px #159957;
-         ">
+    <img
+      src="/Quantum_Kisholoy/assets/2026/Sarat.jpg"
+      alt="Prof. Sarat Kumar Patra"
+      class="committee-photo"
+    >
 
-    <a href="https://scholar.google.com/citations?user=6vFfeb4AAAAJ&hl=en&oi=ao"
-       target="_blank">
-      <strong>Prof. Sarat Kumar Patra</strong>
-    </a>
+    <div class="committee-name">
 
-    <p style="margin:6px 0 0; font-size:14px;">
+      <a
+        href="https://scholar.google.com/citations?user=6vFfeb4AAAAJ&hl=en&oi=ao"
+        target="_blank"
+      >
+        Prof. Sarat Kumar Patra
+      </a>
+
+    </div>
+
+    <p class="committee-details">
       Director, NIT Agartala
     </p>
 
@@ -69,50 +170,35 @@ title: "Quantum Kisholoy - I"
      PATRONS
 ========================================= -->
 
-<h3 style="text-align:center;">Patrons</h3>
+<h3 class="committee-section-title">
+  Patrons
+</h3>
 
-<div style="
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
-  gap:40px;
-  text-align:center;
-  margin-bottom:30px;
-">
+<div class="committee-grid">
 
 
   <!-- Dr. Soma Nag -->
 
-  <div style="
-    width:240px;
-    padding:45px 15px 15px;
-    position:relative;
-    border:1px solid #d8e2e8;
-    border-radius:12px;
-    box-shadow:0 3px 10px rgba(0,0,0,0.06);
-  ">
+  <div class="committee-card">
 
-    <img src="/Quantum_Kisholoy/assets/2026/Soma.jpg"
-         alt="Dr. Soma Nag"
-         style="
-           position:absolute;
-           top:-32px;
-           left:50%;
-           transform:translateX(-50%);
-           width:64px;
-           height:64px;
-           border-radius:50%;
-           object-fit:cover;
-           border:3px solid white;
-           box-shadow:0 0 0 2px #159957;
-         ">
+    <img
+      src="/Quantum_Kisholoy/assets/2026/Soma.jpg"
+      alt="Dr. Soma Nag"
+      class="committee-photo"
+    >
 
-    <a href="https://scholar.google.com/citations?user=6I9xA20AAAAJ&hl=en&oi=ao"
-       target="_blank">
-      <strong>Dr. Soma Nag</strong>
-    </a>
+    <div class="committee-name">
 
-    <p style="margin:6px 0 0; font-size:14px;">
+      <a
+        href="https://scholar.google.com/citations?user=6I9xA20AAAAJ&hl=en&oi=ao"
+        target="_blank"
+      >
+        Dr. Soma Nag
+      </a>
+
+    </div>
+
+    <p class="committee-details">
       Dean (Academic Affairs)<br>
       NIT Agartala
     </p>
@@ -122,36 +208,26 @@ title: "Quantum Kisholoy - I"
 
   <!-- Dr. Biswajit Saha -->
 
-  <div style="
-    width:240px;
-    padding:45px 15px 15px;
-    position:relative;
-    border:1px solid #d8e2e8;
-    border-radius:12px;
-    box-shadow:0 3px 10px rgba(0,0,0,0.06);
-  ">
+  <div class="committee-card">
 
-    <img src="/Quantum_Kisholoy/assets/2026/Biswajit.jpg"
-         alt="Dr. Biswajit Saha"
-         style="
-           position:absolute;
-           top:-32px;
-           left:50%;
-           transform:translateX(-50%);
-           width:64px;
-           height:64px;
-           border-radius:50%;
-           object-fit:cover;
-           border:3px solid white;
-           box-shadow:0 0 0 2px #159957;
-         ">
+    <img
+      src="/Quantum_Kisholoy/assets/2026/Biswajit.jpg"
+      alt="Dr. Biswajit Saha"
+      class="committee-photo"
+    >
 
-    <a href="https://scholar.google.com/citations?user=e4nJgnEAAAAJ&hl=en&oi=ao"
-       target="_blank">
-      <strong>Dr. Biswajit Saha</strong>
-    </a>
+    <div class="committee-name">
 
-    <p style="margin:6px 0 0; font-size:14px;">
+      <a
+        href="https://scholar.google.com/citations?user=e4nJgnEAAAAJ&hl=en&oi=ao"
+        target="_blank"
+      >
+        Dr. Biswajit Saha
+      </a>
+
+    </div>
+
+    <p class="committee-details">
       Dean (R & C - DRNC)<br>
       NIT Agartala
     </p>
@@ -165,45 +241,32 @@ title: "Quantum Kisholoy - I"
      GENERAL CHAIR
 ========================================= -->
 
-<h3 style="text-align:center;">General Chair</h3>
+<h3 class="committee-section-title">
+  General Chair
+</h3>
 
-<div style="
-  display:flex;
-  justify-content:center;
-  text-align:center;
-  margin-bottom:30px;
-">
+<div class="committee-single">
 
-  <div style="
-    width:260px;
-    padding:45px 15px 15px;
-    position:relative;
-    border:1px solid #d8e2e8;
-    border-radius:12px;
-    box-shadow:0 3px 10px rgba(0,0,0,0.06);
-  ">
+  <div class="committee-card" style="max-width:300px;">
 
-    <img src="/Quantum_Kisholoy/assets/2026/Uttam.png"
-         alt="Prof. Uttam Kumar Bera"
-         style="
-           position:absolute;
-           top:-32px;
-           left:50%;
-           transform:translateX(-50%);
-           width:64px;
-           height:64px;
-           border-radius:50%;
-           object-fit:cover;
-           border:3px solid white;
-           box-shadow:0 0 0 2px #159957;
-         ">
+    <img
+      src="/Quantum_Kisholoy/assets/2026/Uttam.png"
+      alt="Prof. Uttam Kumar Bera"
+      class="committee-photo"
+    >
 
-    <a href="https://scholar.google.com/citations?user=SaD-oXQAAAAJ&hl=en&oi=ao"
-       target="_blank">
-      <strong>Prof. (Dr.) Uttam Kumar Bera</strong>
-    </a>
+    <div class="committee-name">
 
-    <p style="margin:6px 0 0; font-size:14px;">
+      <a
+        href="https://scholar.google.com/citations?user=SaD-oXQAAAAJ&hl=en&oi=ao"
+        target="_blank"
+      >
+        Prof. (Dr.) Uttam Kumar Bera
+      </a>
+
+    </div>
+
+    <p class="committee-details">
       HoD, Department of Mathematics<br>
       NIT Agartala
     </p>
@@ -217,49 +280,35 @@ title: "Quantum Kisholoy - I"
      CONVENERS
 ========================================= -->
 
-<h3 style="text-align:center;">Conveners</h3>
+<h3 class="committee-section-title">
+  Conveners
+</h3>
 
-<div style="
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
-  gap:40px;
-  text-align:center;
-">
+<div class="committee-grid">
 
 
   <!-- Dr. Supriyo Dutta -->
 
-  <div style="
-    width:240px;
-    padding:45px 15px 15px;
-    position:relative;
-    border:1px solid #d8e2e8;
-    border-radius:12px;
-    box-shadow:0 3px 10px rgba(0,0,0,0.06);
-  ">
+  <div class="committee-card">
 
-    <img src="/Quantum_Kisholoy/assets/2026/Supriyo.jpg"
-         alt="Dr. Supriyo Dutta"
-         style="
-           position:absolute;
-           top:-32px;
-           left:50%;
-           transform:translateX(-50%);
-           width:64px;
-           height:64px;
-           border-radius:50%;
-           object-fit:cover;
-           border:3px solid white;
-           box-shadow:0 0 0 2px #159957;
-         ">
+    <img
+      src="/Quantum_Kisholoy/assets/2026/Supriyo.jpg"
+      alt="Dr. Supriyo Dutta"
+      class="committee-photo"
+    >
 
-    <a href="https://scholar.google.com/citations?user=1mpM8K0AAAAJ&hl=en&oi=ao"
-       target="_blank">
-      <strong>Dr. Supriyo Dutta</strong>
-    </a>
+    <div class="committee-name">
 
-    <p style="margin:6px 0 0; font-size:14px;">
+      <a
+        href="https://scholar.google.com/citations?user=1mpM8K0AAAAJ&hl=en&oi=ao"
+        target="_blank"
+      >
+        Dr. Supriyo Dutta
+      </a>
+
+    </div>
+
+    <p class="committee-details">
       Department of Mathematics<br>
       NIT Agartala
     </p>
@@ -269,36 +318,26 @@ title: "Quantum Kisholoy - I"
 
   <!-- Dr. Amrita Mandal -->
 
-  <div style="
-    width:240px;
-    padding:45px 15px 15px;
-    position:relative;
-    border:1px solid #d8e2e8;
-    border-radius:12px;
-    box-shadow:0 3px 10px rgba(0,0,0,0.06);
-  ">
+  <div class="committee-card">
 
-    <img src="/Quantum_Kisholoy/assets/2026/Amrita.jpg"
-         alt="Dr. Amrita Mandal"
-         style="
-           position:absolute;
-           top:-32px;
-           left:50%;
-           transform:translateX(-50%);
-           width:64px;
-           height:64px;
-           border-radius:50%;
-           object-fit:cover;
-           border:3px solid white;
-           box-shadow:0 0 0 2px #159957;
-         ">
+    <img
+      src="/Quantum_Kisholoy/assets/2026/Amrita.jpg"
+      alt="Dr. Amrita Mandal"
+      class="committee-photo"
+    >
 
-    <a href="https://scholar.google.com/citations?user=uCyCaSIAAAAJ&hl=en&oi=ao"
-       target="_blank">
-      <strong>Dr. Amrita Mandal</strong>
-    </a>
+    <div class="committee-name">
 
-    <p style="margin:6px 0 0; font-size:14px;">
+      <a
+        href="https://scholar.google.com/citations?user=uCyCaSIAAAAJ&hl=en&oi=ao"
+        target="_blank"
+      >
+        Dr. Amrita Mandal
+      </a>
+
+    </div>
+
+    <p class="committee-details">
       Department of Mathematics<br>
       NIT Agartala
     </p>
@@ -310,6 +349,7 @@ title: "Quantum Kisholoy - I"
 <br>
 
 </details>
+
 ---
 
 <details>
