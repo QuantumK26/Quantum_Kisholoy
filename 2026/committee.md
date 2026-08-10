@@ -387,7 +387,7 @@ title: "Quantum Kisholoy - I"
   <div class="vcqc-org-card">
 
     <img
-      src="/Quantum_Kisholoy/assets/2026/Uttam.jpg"
+      src="/Quantum_Kisholoy/assets/2026/Uttam.png"
       alt="Prof. Uttam Kumar Bera"
       class="vcqc-org-photo"
     >
