@@ -14,95 +14,174 @@ title: "Quantum Kisholoy - I"
 
 <br>
 
-<!-- =========================================
-     COMMON CARD STYLE
-========================================= -->
-
 <style>
 
-.committee-section-title {
-  text-align:center;
-  margin:30px 0 45px;
-  color:#159957;
+/* =========================================
+   ORGANIZING COMMITTEE
+========================================= */
+
+.vcqc-committee-section {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  overflow: hidden;
 }
 
-.committee-grid {
-  display:grid;
-  grid-template-columns:repeat(2, minmax(220px, 280px));
-  justify-content:center;
-  gap:55px 45px;
-  margin-bottom:55px;
+.vcqc-section-title {
+  text-align: center;
+  color: #159957;
+  font-size: 1.45rem;
+  font-weight: 400;
+  margin: 55px 0 75px;
 }
 
-.committee-single {
-  display:flex;
-  justify-content:center;
-  margin-bottom:55px;
+
+/* =========================================
+   SINGLE MEMBER
+========================================= */
+
+.vcqc-single-row {
+  width: 100%;
+  max-width: 320px;
+  margin: 0 auto 80px;
+  box-sizing: border-box;
 }
 
-.committee-card {
-  width:100%;
-  min-height:125px;
-  box-sizing:border-box;
 
-  padding:50px 15px 18px;
+/* =========================================
+   TWO MEMBER ROW
+========================================= */
 
-  position:relative;
+.vcqc-two-row {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 80px;
 
-  border:1px solid #d8e2e8;
-  border-radius:12px;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
 
-  text-align:center;
+  gap: 30px;
 
-  background:white;
+  box-sizing: border-box;
+}
 
-  box-shadow:0 3px 10px rgba(0,0,0,0.06);
+
+/* =========================================
+   MEMBER CARD
+========================================= */
+
+.vcqc-member-card {
+
+  position: relative;
+
+  flex: 1 1 0;
+
+  min-width: 0;
+
+  width: 100%;
+
+  box-sizing: border-box;
+
+  padding: 58px 15px 20px;
+
+  text-align: center;
+
+  background: #ffffff;
+
+  border: 1px solid #d8e2e8;
+
+  border-radius: 12px;
+
+  box-shadow: 0 3px 10px rgba(0,0,0,0.06);
 
   transition:
     transform 0.25s ease,
     box-shadow 0.25s ease;
 }
 
-.committee-card:hover {
-  transform:translateY(-4px);
-  box-shadow:0 7px 18px rgba(0,0,0,0.10);
+
+.vcqc-member-card:hover {
+
+  transform: translateY(-4px);
+
+  box-shadow:
+    0 7px 18px rgba(0,0,0,0.10);
 }
 
-.committee-photo {
-  position:absolute;
 
-  top:-34px;
-  left:50%;
+/* =========================================
+   PHOTO
+========================================= */
 
-  transform:translateX(-50%);
+.vcqc-member-photo {
 
-  width:66px;
-  height:66px;
+  position: absolute;
 
-  border-radius:50%;
+  top: -36px;
 
-  object-fit:cover;
+  left: 50%;
 
-  border:3px solid white;
+  transform: translateX(-50%);
+
+  width: 70px;
+
+  height: 70px;
+
+  border-radius: 50%;
+
+  object-fit: cover;
+
+  border: 3px solid #ffffff;
 
   box-shadow:
     0 0 0 2px #159957,
     0 3px 8px rgba(0,0,0,0.15);
 }
 
-.committee-name {
-  font-size:18px;
-  font-weight:bold;
+
+/* =========================================
+   NAME
+========================================= */
+
+.vcqc-member-name {
+
+  font-size: 18px;
+
+  font-weight: 700;
+
+  line-height: 1.4;
+
+  margin: 0;
 }
 
-.committee-name a {
-  text-decoration:none;
+.vcqc-member-name a {
+
+  color: #1f6fbd;
+
+  text-decoration: none;
 }
 
-.committee-details {
-  margin:7px 0 0;
-  font-size:14px;
-  line-height:1.5;
+.vcqc-member-name a:hover {
+
+  text-decoration: underline;
+}
+
+
+/* =========================================
+   DETAILS
+========================================= */
+
+.vcqc-member-details {
+
+  margin: 8px 0 0;
+
+  font-size: 14px;
+
+  line-height: 1.5;
+
+  color: #555;
 }
 
 
@@ -110,17 +189,53 @@ title: "Quantum Kisholoy - I"
    MOBILE
 ========================================= */
 
-@media screen and (max-width:600px) {
+@media screen and (max-width: 650px) {
 
-  .committee-grid {
-    grid-template-columns:minmax(0, 1fr);
-    gap:55px;
-    margin-left:5px;
-    margin-right:5px;
+  .vcqc-two-row {
+
+    width: 100%;
+
+    max-width: 320px;
+
+    flex-direction: column;
+
+    gap: 75px;
+
+    margin-bottom: 80px;
   }
 
-  .committee-card {
-    width:100%;
+  .vcqc-member-card {
+
+    width: 100%;
+
+    flex: none;
+  }
+
+  .vcqc-section-title {
+
+    margin-top: 45px;
+
+    margin-bottom: 75px;
+  }
+
+}
+
+
+/* =========================================
+   VERY SMALL SCREEN
+========================================= */
+
+@media screen and (max-width: 400px) {
+
+  .vcqc-two-row,
+  .vcqc-single-row {
+
+    max-width: 280px;
+  }
+
+  .vcqc-member-name {
+
+    font-size: 17px;
   }
 
 }
@@ -128,25 +243,28 @@ title: "Quantum Kisholoy - I"
 </style>
 
 
+<div class="vcqc-committee-section">
+
+
 <!-- =========================================
      CHIEF PATRON
 ========================================= -->
 
-<h3 class="committee-section-title">
+<h3 class="vcqc-section-title">
   Chief Patron
 </h3>
 
-<div class="committee-single">
+<div class="vcqc-single-row">
 
-  <div class="committee-card" style="max-width:280px;">
+  <div class="vcqc-member-card">
 
     <img
       src="/Quantum_Kisholoy/assets/2026/Sarat.jpg"
       alt="Prof. Sarat Kumar Patra"
-      class="committee-photo"
+      class="vcqc-member-photo"
     >
 
-    <div class="committee-name">
+    <p class="vcqc-member-name">
 
       <a
         href="https://scholar.google.com/citations?user=6vFfeb4AAAAJ&hl=en&oi=ao"
@@ -155,9 +273,9 @@ title: "Quantum Kisholoy - I"
         Prof. Sarat Kumar Patra
       </a>
 
-    </div>
+    </p>
 
-    <p class="committee-details">
+    <p class="vcqc-member-details">
       Director, NIT Agartala
     </p>
 
@@ -170,24 +288,24 @@ title: "Quantum Kisholoy - I"
      PATRONS
 ========================================= -->
 
-<h3 class="committee-section-title">
+<h3 class="vcqc-section-title">
   Patrons
 </h3>
 
-<div class="committee-grid">
+<div class="vcqc-two-row">
 
 
-  <!-- Dr. Soma Nag -->
+  <!-- SOMA NAG -->
 
-  <div class="committee-card">
+  <div class="vcqc-member-card">
 
     <img
       src="/Quantum_Kisholoy/assets/2026/Soma.jpg"
       alt="Dr. Soma Nag"
-      class="committee-photo"
+      class="vcqc-member-photo"
     >
 
-    <div class="committee-name">
+    <p class="vcqc-member-name">
 
       <a
         href="https://scholar.google.com/citations?user=6I9xA20AAAAJ&hl=en&oi=ao"
@@ -196,9 +314,9 @@ title: "Quantum Kisholoy - I"
         Dr. Soma Nag
       </a>
 
-    </div>
+    </p>
 
-    <p class="committee-details">
+    <p class="vcqc-member-details">
       Dean (Academic Affairs)<br>
       NIT Agartala
     </p>
@@ -206,17 +324,17 @@ title: "Quantum Kisholoy - I"
   </div>
 
 
-  <!-- Dr. Biswajit Saha -->
+  <!-- BISWAJIT SAHA -->
 
-  <div class="committee-card">
+  <div class="vcqc-member-card">
 
     <img
       src="/Quantum_Kisholoy/assets/2026/Biswajit.jpg"
       alt="Dr. Biswajit Saha"
-      class="committee-photo"
+      class="vcqc-member-photo"
     >
 
-    <div class="committee-name">
+    <p class="vcqc-member-name">
 
       <a
         href="https://scholar.google.com/citations?user=e4nJgnEAAAAJ&hl=en&oi=ao"
@@ -225,9 +343,9 @@ title: "Quantum Kisholoy - I"
         Dr. Biswajit Saha
       </a>
 
-    </div>
+    </p>
 
-    <p class="committee-details">
+    <p class="vcqc-member-details">
       Dean (R & C - DRNC)<br>
       NIT Agartala
     </p>
@@ -241,21 +359,21 @@ title: "Quantum Kisholoy - I"
      GENERAL CHAIR
 ========================================= -->
 
-<h3 class="committee-section-title">
+<h3 class="vcqc-section-title">
   General Chair
 </h3>
 
-<div class="committee-single">
+<div class="vcqc-single-row">
 
-  <div class="committee-card" style="max-width:300px;">
+  <div class="vcqc-member-card">
 
     <img
-      src="/Quantum_Kisholoy/assets/2026/Uttam.png"
+      src="/Quantum_Kisholoy/assets/2026/Uttam.jpg"
       alt="Prof. Uttam Kumar Bera"
-      class="committee-photo"
+      class="vcqc-member-photo"
     >
 
-    <div class="committee-name">
+    <p class="vcqc-member-name">
 
       <a
         href="https://scholar.google.com/citations?user=SaD-oXQAAAAJ&hl=en&oi=ao"
@@ -264,9 +382,9 @@ title: "Quantum Kisholoy - I"
         Prof. (Dr.) Uttam Kumar Bera
       </a>
 
-    </div>
+    </p>
 
-    <p class="committee-details">
+    <p class="vcqc-member-details">
       HoD, Department of Mathematics<br>
       NIT Agartala
     </p>
@@ -280,24 +398,24 @@ title: "Quantum Kisholoy - I"
      CONVENERS
 ========================================= -->
 
-<h3 class="committee-section-title">
+<h3 class="vcqc-section-title">
   Conveners
 </h3>
 
-<div class="committee-grid">
+<div class="vcqc-two-row">
 
 
-  <!-- Dr. Supriyo Dutta -->
+  <!-- SUPRIYO DUTTA -->
 
-  <div class="committee-card">
+  <div class="vcqc-member-card">
 
     <img
       src="/Quantum_Kisholoy/assets/2026/Supriyo.jpg"
       alt="Dr. Supriyo Dutta"
-      class="committee-photo"
+      class="vcqc-member-photo"
     >
 
-    <div class="committee-name">
+    <p class="vcqc-member-name">
 
       <a
         href="https://scholar.google.com/citations?user=1mpM8K0AAAAJ&hl=en&oi=ao"
@@ -306,9 +424,9 @@ title: "Quantum Kisholoy - I"
         Dr. Supriyo Dutta
       </a>
 
-    </div>
+    </p>
 
-    <p class="committee-details">
+    <p class="vcqc-member-details">
       Department of Mathematics<br>
       NIT Agartala
     </p>
@@ -316,17 +434,17 @@ title: "Quantum Kisholoy - I"
   </div>
 
 
-  <!-- Dr. Amrita Mandal -->
+  <!-- AMRITA MANDAL -->
 
-  <div class="committee-card">
+  <div class="vcqc-member-card">
 
     <img
       src="/Quantum_Kisholoy/assets/2026/Amrita.jpg"
       alt="Dr. Amrita Mandal"
-      class="committee-photo"
+      class="vcqc-member-photo"
     >
 
-    <div class="committee-name">
+    <p class="vcqc-member-name">
 
       <a
         href="https://scholar.google.com/citations?user=uCyCaSIAAAAJ&hl=en&oi=ao"
@@ -335,14 +453,17 @@ title: "Quantum Kisholoy - I"
         Dr. Amrita Mandal
       </a>
 
-    </div>
+    </p>
 
-    <p class="committee-details">
+    <p class="vcqc-member-details">
       Department of Mathematics<br>
       NIT Agartala
     </p>
 
   </div>
+
+</div>
+
 
 </div>
 
