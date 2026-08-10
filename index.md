@@ -74,13 +74,10 @@
 ">
 
   <h2 style="margin-top:0;">
-    🚀 <a href="./2026/">Quantum Kisholoy - I</a>
+    <a href="./2026/">Quantum Kisholoy - I</a>
   </h2>
 
-  <p style="margin-bottom:8px;">
-    <strong></strong>
-  </p>
-
+  
   <p style="margin:0;">
     📅 <strong>October 15–17, 2026</strong>
     &nbsp;&nbsp;|&nbsp;&nbsp;
