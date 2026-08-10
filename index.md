@@ -41,7 +41,7 @@
     </h1>
 
     <p>
-      <strong>Quantum Kisholoy</strong> is a virtual series
+      <strong>Quantum Kisholoy</strong> is a conference series
       dedicated to bringing together young researchers, students,
       academicians, and professionals working in
       <strong>Quantum Computing and Quantum Information</strong>.
