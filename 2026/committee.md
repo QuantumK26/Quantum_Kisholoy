@@ -24,7 +24,7 @@ title: "Quantum Kisholoy - I"
   display:flex;
   justify-content:center;
   text-align:center;
-  margin-bottom:30px;
+  margin-bottom:40px;
 ">
 
   <div style="
