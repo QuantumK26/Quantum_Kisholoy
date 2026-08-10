@@ -78,7 +78,7 @@
   </h2>
 
   <p style="margin-bottom:8px;">
-    <strong>1st Virtual Conference on Quantum Computing</strong>
+    <strong></strong>
   </p>
 
   <p style="margin:0;">
