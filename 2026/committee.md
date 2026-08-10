@@ -14,92 +14,302 @@ title: "Quantum Kisholoy - I"
 
 <br>
 
-<!-- CHIEF PATRON -->
+<!-- =========================================
+     CHIEF PATRON
+========================================= -->
 
 <h3 style="text-align:center;">Chief Patron</h3>
 
-<div style="display:flex; justify-content:center; text-align:center;">
+<div style="
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  margin-bottom:30px;
+">
 
-<div style="width:220px; padding:10px;">
-<a href="https://scholar.google.com/citations?user=6vFfeb4AAAAJ&hl=en&oi=ao">
-<strong>Prof. Sarat Kumar Patra</strong>
-</a><br>
-Director, NIT Agartala
+  <div style="
+    width:240px;
+    padding:45px 15px 15px;
+    position:relative;
+    border:1px solid #d8e2e8;
+    border-radius:12px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.06);
+  ">
+
+    <img src="/Quantum_Kisholoy/assets/2026/Sarat.jpg"
+         alt="Prof. Sarat Kumar Patra"
+         style="
+           position:absolute;
+           top:-32px;
+           left:50%;
+           transform:translateX(-50%);
+           width:64px;
+           height:64px;
+           border-radius:50%;
+           object-fit:cover;
+           border:3px solid white;
+           box-shadow:0 0 0 2px #159957;
+         ">
+
+    <a href="https://scholar.google.com/citations?user=6vFfeb4AAAAJ&hl=en&oi=ao"
+       target="_blank">
+      <strong>Prof. Sarat Kumar Patra</strong>
+    </a>
+
+    <p style="margin:6px 0 0; font-size:14px;">
+      Director, NIT Agartala
+    </p>
+
+  </div>
+
 </div>
 
-</div>
 
-
-<!-- PATRONS -->
+<!-- =========================================
+     PATRONS
+========================================= -->
 
 <h3 style="text-align:center;">Patrons</h3>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; text-align:center;">
+<div style="
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:40px;
+  text-align:center;
+  margin-bottom:30px;
+">
 
-<div style="width:220px; padding:10px;">
-<a href="https://scholar.google.com/citations?user=6I9xA20AAAAJ&hl=en&oi=ao">
-<strong>Dr. Soma Nag</strong>
-</a><br>
-Dean (Academic Affairs)<br>
-NIT Agartala
+
+  <!-- Dr. Soma Nag -->
+
+  <div style="
+    width:240px;
+    padding:45px 15px 15px;
+    position:relative;
+    border:1px solid #d8e2e8;
+    border-radius:12px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.06);
+  ">
+
+    <img src="/Quantum_Kisholoy/assets/2026/Soma.jpg"
+         alt="Dr. Soma Nag"
+         style="
+           position:absolute;
+           top:-32px;
+           left:50%;
+           transform:translateX(-50%);
+           width:64px;
+           height:64px;
+           border-radius:50%;
+           object-fit:cover;
+           border:3px solid white;
+           box-shadow:0 0 0 2px #159957;
+         ">
+
+    <a href="https://scholar.google.com/citations?user=6I9xA20AAAAJ&hl=en&oi=ao"
+       target="_blank">
+      <strong>Dr. Soma Nag</strong>
+    </a>
+
+    <p style="margin:6px 0 0; font-size:14px;">
+      Dean (Academic Affairs)<br>
+      NIT Agartala
+    </p>
+
+  </div>
+
+
+  <!-- Dr. Biswajit Saha -->
+
+  <div style="
+    width:240px;
+    padding:45px 15px 15px;
+    position:relative;
+    border:1px solid #d8e2e8;
+    border-radius:12px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.06);
+  ">
+
+    <img src="/Quantum_Kisholoy/assets/2026/Biswajit.jpg"
+         alt="Dr. Biswajit Saha"
+         style="
+           position:absolute;
+           top:-32px;
+           left:50%;
+           transform:translateX(-50%);
+           width:64px;
+           height:64px;
+           border-radius:50%;
+           object-fit:cover;
+           border:3px solid white;
+           box-shadow:0 0 0 2px #159957;
+         ">
+
+    <a href="https://scholar.google.com/citations?user=e4nJgnEAAAAJ&hl=en&oi=ao"
+       target="_blank">
+      <strong>Dr. Biswajit Saha</strong>
+    </a>
+
+    <p style="margin:6px 0 0; font-size:14px;">
+      Dean (R & C - DRNC)<br>
+      NIT Agartala
+    </p>
+
+  </div>
+
 </div>
 
-<div style="width:220px; padding:10px;">
-<a href="https://scholar.google.com/citations?user=e4nJgnEAAAAJ&hl=en&oi=ao">
-<strong>Dr. Biswajit Saha</strong>
-</a><br>
-Dean (R & C - DRNC)<br>
-NIT Agartala
-</div>
 
-</div>
-
-
-<!-- GENERAL CHAIR -->
+<!-- =========================================
+     GENERAL CHAIR
+========================================= -->
 
 <h3 style="text-align:center;">General Chair</h3>
 
-<div style="display:flex; justify-content:center; text-align:center;">
+<div style="
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  margin-bottom:30px;
+">
 
-<div style="width:250px; padding:10px;">
-<a href="https://scholar.google.com/citations?user=SaD-oXQAAAAJ&hl=en&oi=ao">
-<strong>Prof. (Dr.) Uttam Kumar Bera</strong>
-</a><br>
-HoD, Department of Mathematics<br>
-NIT Agartala
+  <div style="
+    width:260px;
+    padding:45px 15px 15px;
+    position:relative;
+    border:1px solid #d8e2e8;
+    border-radius:12px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.06);
+  ">
+
+    <img src="/Quantum_Kisholoy/assets/2026/Uttam.png"
+         alt="Prof. Uttam Kumar Bera"
+         style="
+           position:absolute;
+           top:-32px;
+           left:50%;
+           transform:translateX(-50%);
+           width:64px;
+           height:64px;
+           border-radius:50%;
+           object-fit:cover;
+           border:3px solid white;
+           box-shadow:0 0 0 2px #159957;
+         ">
+
+    <a href="https://scholar.google.com/citations?user=SaD-oXQAAAAJ&hl=en&oi=ao"
+       target="_blank">
+      <strong>Prof. (Dr.) Uttam Kumar Bera</strong>
+    </a>
+
+    <p style="margin:6px 0 0; font-size:14px;">
+      HoD, Department of Mathematics<br>
+      NIT Agartala
+    </p>
+
+  </div>
+
 </div>
 
-</div>
 
-
-<!-- CONVENERS -->
+<!-- =========================================
+     CONVENERS
+========================================= -->
 
 <h3 style="text-align:center;">Conveners</h3>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; text-align:center;">
+<div style="
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:40px;
+  text-align:center;
+">
 
-<div style="width:220px; padding:10px;">
-<a href="https://scholar.google.com/citations?user=1mpM8K0AAAAJ&hl=en&oi=ao">
-<strong>Dr. Supriyo Dutta</strong>
-</a><br>
-Department of Mathematics<br>
-NIT Agartala
-</div>
 
-<div style="width:220px; padding:10px;">
-<a href="https://scholar.google.com/citations?user=uCyCaSIAAAAJ&hl=en&oi=ao">
-<strong>Dr. Amrita Mandal</strong>
-</a><br>
-Department of Mathematics<br>
-NIT Agartala
-</div>
+  <!-- Dr. Supriyo Dutta -->
+
+  <div style="
+    width:240px;
+    padding:45px 15px 15px;
+    position:relative;
+    border:1px solid #d8e2e8;
+    border-radius:12px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.06);
+  ">
+
+    <img src="/Quantum_Kisholoy/assets/2026/Supriyo.jpg"
+         alt="Dr. Supriyo Dutta"
+         style="
+           position:absolute;
+           top:-32px;
+           left:50%;
+           transform:translateX(-50%);
+           width:64px;
+           height:64px;
+           border-radius:50%;
+           object-fit:cover;
+           border:3px solid white;
+           box-shadow:0 0 0 2px #159957;
+         ">
+
+    <a href="https://scholar.google.com/citations?user=1mpM8K0AAAAJ&hl=en&oi=ao"
+       target="_blank">
+      <strong>Dr. Supriyo Dutta</strong>
+    </a>
+
+    <p style="margin:6px 0 0; font-size:14px;">
+      Department of Mathematics<br>
+      NIT Agartala
+    </p>
+
+  </div>
+
+
+  <!-- Dr. Amrita Mandal -->
+
+  <div style="
+    width:240px;
+    padding:45px 15px 15px;
+    position:relative;
+    border:1px solid #d8e2e8;
+    border-radius:12px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.06);
+  ">
+
+    <img src="/Quantum_Kisholoy/assets/2026/Amrita.jpg"
+         alt="Dr. Amrita Mandal"
+         style="
+           position:absolute;
+           top:-32px;
+           left:50%;
+           transform:translateX(-50%);
+           width:64px;
+           height:64px;
+           border-radius:50%;
+           object-fit:cover;
+           border:3px solid white;
+           box-shadow:0 0 0 2px #159957;
+         ">
+
+    <a href="https://scholar.google.com/citations?user=uCyCaSIAAAAJ&hl=en&oi=ao"
+       target="_blank">
+      <strong>Dr. Amrita Mandal</strong>
+    </a>
+
+    <p style="margin:6px 0 0; font-size:14px;">
+      Department of Mathematics<br>
+      NIT Agartala
+    </p>
+
+  </div>
 
 </div>
 
 <br>
 
 </details>
-
 ---
 
 <details>
