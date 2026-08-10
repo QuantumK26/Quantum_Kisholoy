@@ -9,7 +9,7 @@ title: "Quantum Kisholoy - I"
 
 # Registration
 
-Registration for **Quantum Kisholoy - I** is open to students, research scholars, postdoctoral fellows, faculty members, and researchers interested in **Quantum Computing and Quantum Information**.
+Registration for **Quantum Kisholoy - I** is free.
 
 <div style="
   max-width:650px;
