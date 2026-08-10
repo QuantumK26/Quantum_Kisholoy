@@ -48,8 +48,7 @@ Agartala, Jirania, Tripura 799046
 <h2>About the Conference</h2>
 
 <p>
-<strong>“Kisholoy”</strong> is a Bengali word that translates to a <em>“fresh new leaf”</em> derived from Sanskrit, it metaphorically 
-signifies youth, warmth, new beginnings, and the beginning of a vibrant new life. The primary focus of this conference, <strong>Quantum Kisholoy</strong>, is to bring together all the young researchers in quantum information and computation working at different universities all over the world. In this platform, they can present their research works followed by collaborative opportunities. The target audience of this conference consists of the young researchers including the undergraduate students, post graduate students, PhD scholars, Post-doctoral fellows, faculty members, as well as industry personnel.
+<strong>“Kisholoy”</strong>, a Bengali word that translates to a <em>“fresh new leaf”</em> derived from Sanskrit, metaphorically signifies youth, warmth, new beginnings, and the beginning of a vibrant new life. The primary focus of this conference, <strong>Quantum Kisholoy</strong>, is to bring together all the young researchers in quantum information and computation working at different universities all over the world. In this platform, they can present their research works followed by collaborative opportunities. The target audience of this conference consists of the young researchers including the undergraduate students, post graduate students, PhD scholars, Post-doctoral fellows, faculty members, as well as industry personnel.
 </p>
 
 <p>
