@@ -49,11 +49,11 @@ Agartala, Jirania, Tripura 799046
 
 <p>
 <strong>“Kisholoy”</strong> is a Bengali word that translates to a <em>“fresh new leaf”</em> derived from Sanskrit, it metaphorically 
-signifies youth, warmth, new beginnings, and the beginning of a vibrant new life. The conference, <strong>Quantum Kisholoy</strong>, wants to provide a platform to all the young Indian researchers in quantum information and computation working at different universities all over the world where they can present their research work. Therefore, the members of our audience will be the young researchers which including the undergraduate students, post graduate students, PhD scholars, Post-doctoral fellows, and assistant professors.
+signifies youth, warmth, new beginnings, and the beginning of a vibrant new life. The primary focus of this conference, <strong>Quantum Kisholoy</strong>, is to bring together all the young researchers in quantum information and computation working at different universities all over the world. In this platform, they can present their research works followed by collaborative opportunities. The target audience of this conference consists of the young researchers including the undergraduate students, post graduate students, PhD scholars, Post-doctoral fellows, faculty members, as well as industry personnel.
 </p>
 
 <p>
-This conference represents a pioneering initiative, being the first of its kind to be hosted in North-Eastern India. The conference is open access, and hence registration fee for the participants have been waived. Also, to make the conference accessible world-wise, we keep it online. Moreover we are interested to include the researchers in academia as well as in industry for the conference. In this conference we shall invite industry speakers also.
+This conference represents a pioneering initiative, being the first of its kind to be hosted in North-Eastern India. The conference is freely assessable, and hence registration fee for the participants have been waived. Also, to make the conference reachable world-wise, we keep it online.
 </p>
 
 </div>
