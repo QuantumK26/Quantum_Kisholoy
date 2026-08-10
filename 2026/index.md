@@ -27,7 +27,7 @@ Department of Mathematics
 </p>
 
 <p>
-Agartala, Jirania, Tripura 799046
+Jirania, West Tripura, India - 799046.
 </p>
 
 </div>
