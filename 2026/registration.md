@@ -9,7 +9,7 @@ title: "Quantum Kisholoy - I"
 
 # Registration
 
-Registration for **Quantum Kisholoy - I** is free.
+Registration for **Quantum Kisholoy - I** is mandatory for all participants. But, there is no registration fee. If you want to present a talk and want to chair a session, fill up both the form. Otherwise, filling up only one form is sufficient. 
 
 <div style="
   max-width:650px;
@@ -21,7 +21,7 @@ Registration for **Quantum Kisholoy - I** is free.
   box-shadow:0 3px 10px rgba(0,0,0,0.06);
 ">
 
-<h2 style="margin-top:0;">Attendee Registration</h2>
+<h2 style="margin-top:0;">Submit the below form if you want to only participate </h2>
 
 <p>
 <strong>Registration Fee: NIL (Free)</strong>
@@ -45,3 +45,6 @@ Registration for **Quantum Kisholoy - I** is free.
 
 </div>
 
+Submit the below form if you want to give a talk. Please use the latex templet (https://drive.google.com/file/d/1YzKPYc8hnDsNrgWeHeG77-0IHfl9FMy_/view?usp=sharing), given in the hyperlink, for preparing an extended abstract. 
+
+If you want to chair a session, submit the below form.
