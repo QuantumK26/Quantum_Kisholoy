@@ -37,7 +37,7 @@ Jirania, West Tripura, India - 799046.
 <p style="line-height: 1.8;">
 📅 <strong>Dates:</strong> January 22-24, 2027<br>
 💻 <strong>Mode:</strong> Online (Microsoft Teams & YouTube Live)<br>
-💰 <strong>Registration:</strong> NIL (Free)
+💰 <strong>Registration Fee:</strong> NIL (Free)
 </p>
 </div>
 
