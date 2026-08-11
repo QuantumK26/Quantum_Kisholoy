@@ -9,10 +9,7 @@ title: "Quantum Kisholoy - I"
 
 # Registration
 
-# Registration
-
-Registration for **Quantum Kisholoy - I** is **mandatory**, but there is **no registration fee**.
-
+Registration for **Quantum Kisholoy - I** is mandatory for all participants. But, there is no registration fee. If you want to present a talk and want to chair a session, fill up both the form. Otherwise, filling up only one form is sufficient.
 <div style="
   display:grid;
   grid-template-columns:repeat(auto-fit, minmax(220px, 1fr));
