@@ -1275,7 +1275,7 @@ Registration & Participant Support
   box-shadow:0 3px 10px rgba(0,0,0,0.06);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/Ramday.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Ram.jpeg"
      alt="Ramday Sutradhar"
      style="
        position:absolute;
@@ -1320,7 +1320,7 @@ Session & Event Coordination
   box-shadow:0 3px 10px rgba(0,0,0,0.06);
 ">
 
-<img src="/Quantum_Kisholoy/assets/2026/Priti.jpg"
+<img src="/Quantum_Kisholoy/assets/2026/Pratyusha.jpeg"
      alt="Pratyusha roy"
      style="
        position:absolute;
