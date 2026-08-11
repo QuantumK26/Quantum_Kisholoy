@@ -58,7 +58,27 @@ This conference represents a pioneering initiative, being the first of its kind 
 </div>
 
 </div>
+------
+## Aims and Scope
 
+We are interested to all the areas of quantum information, and computation which include but not limited to the following:
+* Quantum Algorithms
+* Quantum Information Theory
+* Quantum ML \& AI
+* Quantum Cryptography
+* Quantum Error Correction Code
+* Quantum Communication \& Quantum Networks
+* Quantum Walks
+* Quantum Optimization
+* Quantum Simulation
+* Quantum Hardware
+* Quantum Sensors
+* Quantum Software
+* Open Quantum Systems
+* Graph theory in quantum information and computing
+* Game theory in quantum information and computing
+* Quantum Tensor Networks
+* Quantum State Transfer
 ------
 ## Quick Links
 **[Conference Poster](https://drive.google.com/file/d/1Sq_k1MY-1oyOUxqauhMNZUwUZmAbNA44/view?usp=sharing)** &nbsp;&nbsp; | &nbsp;&nbsp;
