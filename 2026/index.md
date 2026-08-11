@@ -61,7 +61,7 @@ This conference represents a pioneering initiative, being the first of its kind 
 
 ------
 ## Quick Links
-
+**[Conference Poster](https://drive.google.com/file/d/1Sq_k1MY-1oyOUxqauhMNZUwUZmAbNA44/view?usp=sharing)** &nbsp;&nbsp; | &nbsp;&nbsp;
 🎤 **[Keynote & Invited Speakers](./speakers)** &nbsp;&nbsp; | &nbsp;&nbsp;
 👥 **[Conference Committee](./committee)** &nbsp;&nbsp; | &nbsp;&nbsp;
 📝 **[Registration & Abstract Submission](./registration)**
