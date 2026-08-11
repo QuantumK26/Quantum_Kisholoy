@@ -111,9 +111,6 @@ Registration for **Quantum Kisholoy - I** is mandatory for all participants. But
 </div>
 
 
-> **Note:** If you wish to **present a talk and chair a session**, please complete both forms.
-
-
 ### 📝 Extended Abstract
 
 For talk submissions, please use the prescribed
