@@ -500,476 +500,393 @@ title: "Quantum Kisholoy - I"
 <details>
 <summary><strong>▶ Advisory Committee</strong></summary>
 
-<br>
+<br><br>
 
-<style>
-
-/* =========================================
-   ADVISORY COMMITTEE
-========================================= */
-
-.qk-advisory {
-  width:100%;
-  max-width:850px;
-  margin:0 auto;
-  box-sizing:border-box;
-}
-
-
-/* Two columns */
-
-.qk-advisory-columns {
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:0;
-  margin-top:25px;
-}
-
-
-/* Each column */
-
-.qk-advisory-column {
-  padding:5px 25px;
-  box-sizing:border-box;
-}
-
-
-/* Vertical divider */
-
-.qk-advisory-column:first-child {
-  border-right:1px solid #d8d8d8;
-}
-
-
-/* Member row */
-
-.qk-advisory-member {
-
+<div style="
   display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:45px 25px;
+  padding-top:25px;
+  text-align:center;
+">
+
+
+<!-- ===================================== -->
+<!-- 1. Prof. Bhanu Pratap Das             -->
+<!-- ===================================== -->
+
+<div style="
+  width:240px;
+  min-height:125px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Bhanu.jpg"
+     alt="Prof. Bhanu Pratap Das"
+     style="
+       position:absolute;
+       top:-32px;
+       left:50%;
+       transform:translateX(-50%);
+       width:64px;
+       height:64px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=k8UtBTwAAAAJ&hl=en&oi=ao"
+   target="_blank">
+<strong>Prof. Bhanu Pratap Das</strong>
+</a>
+
+<p style="margin:5px 0 0; font-size:14px;">
+CQuERE, TCG CREST
+</p>
+
+</div>
+
+
+<!-- ===================================== -->
+<!-- 2. Prof. Prasanta K. Panigrahi         -->
+<!-- ===================================== -->
+
+<div style="
+  width:240px;
+  min-height:125px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Prasanta.jpg"
+     alt="Prof. Prasanta K. Panigrahi"
+     style="
+       position:absolute;
+       top:-32px;
+       left:50%;
+       transform:translateX(-50%);
+       width:64px;
+       height:64px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=sNq6fwwAAAAJ&hl=en&oi=ao"
+   target="_blank">
+<strong>Prof. Prasanta K. Panigrahi</strong>
+</a>
+
+<p style="margin:5px 0 0; font-size:14px;">
+Director, QCC<br>
+SOA
+</p>
+
+</div>
+
+
+<!-- ===================================== -->
+<!-- 3. Prof. Anirban Pathak               -->
+<!-- ===================================== -->
+
+<div style="
+  width:240px;
+  min-height:125px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Anirban.jpg"
+     alt="Prof. Anirban Pathak"
+     style="
+       position:absolute;
+       top:-32px;
+       left:50%;
+       transform:translateX(-50%);
+       width:64px;
+       height:64px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=fQ54OcoAAAAJ&hl=en&oi=ao"
+   target="_blank">
+<strong>Prof. Anirban Pathak</strong>
+</a>
+
+<p style="margin:5px 0 0; font-size:14px;">
+JIIT<br>
+Noida, India
+</p>
+
+</div>
+
+
+<!-- ===================================== -->
+<!-- 4. Prof. Pankaj Agarwal               -->
+<!-- ===================================== -->
+
+<div style="
+  width:240px;
+  min-height:125px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Pankaj.jpg"
+     alt="Prof. Pankaj Agarwal"
+     style="
+       position:absolute;
+       top:-32px;
+       left:50%;
+       transform:translateX(-50%);
+       width:64px;
+       height:64px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://www.tcgcrest.org/people/pankaj-agrawal/"
+   target="_blank">
+<strong>Prof. Pankaj Agarwal</strong>
+</a>
+
+<p style="margin:5px 0 0; font-size:14px;">
+CQuERE, TCG CREST
+</p>
+
+</div>
+
+
+<!-- ===================================== -->
+<!-- 5. Prof. Binayak S. Choudhury         -->
+<!-- ===================================== -->
+
+<div style="
+  width:240px;
+  min-height:125px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Binayak.jpg"
+     alt="Prof. Binayak S. Choudhury"
+     style="
+       position:absolute;
+       top:-32px;
+       left:50%;
+       transform:translateX(-50%);
+       width:64px;
+       height:64px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=nu0PYOZ4QWIC&hl=en&oi=ao"
+   target="_blank">
+<strong>Prof. Binayak S. Choudhury</strong>
+</a>
+
+<p style="margin:5px 0 0; font-size:14px;">
+IIEST Shibpur<br>
+India
+</p>
+
+</div>
+
+
+<!-- ===================================== -->
+<!-- 6. Prof. R. Srikanth                  -->
+<!-- ===================================== -->
+
+<div style="
+  width:240px;
+  min-height:125px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Srikanth.jpg"
+     alt="Prof. R. Srikanth"
+     style="
+       position:absolute;
+       top:-32px;
+       left:50%;
+       transform:translateX(-50%);
+       width:64px;
+       height:64px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=q8qhgkwAAAAJ&hl=en&oi=ao"
+   target="_blank">
+<strong>Prof. R. Srikanth</strong>
+</a>
+
+<p style="margin:5px 0 0; font-size:14px;">
+PPISR<br>
+Bengaluru, India
+</p>
+
+</div>
+
+
+<!-- ===================================== -->
+<!-- 7. Prof. Subhashish Banerjee           -->
+<!-- ===================================== -->
+
+<div style="
+  width:240px;
+  min-height:125px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Subhashis.jpg"
+     alt="Prof. Subhashish Banerjee"
+     style="
+       position:absolute;
+       top:-32px;
+       left:50%;
+       transform:translateX(-50%);
+       width:64px;
+       height:64px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=UU9KftAAAAAJ&hl=en&oi=ao"
+   target="_blank">
+<strong>Prof. Subhashish Banerjee</strong>
+</a>
+
+<p style="margin:5px 0 0; font-size:14px;">
+IIT Jodhpur<br>
+Jodhpur, India
+</p>
+
+</div>
+
+
+<!-- ===================================== -->
+<!-- 8. Dr. Bibhas Adhikari                -->
+<!-- ===================================== -->
+
+<div style="
+  width:240px;
+  min-height:125px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Bibhas.jpg"
+     alt="Dr. Bibhas Adhikari"
+     style="
+       position:absolute;
+       top:-32px;
+       left:50%;
+       transform:translateX(-50%);
+       width:64px;
+       height:64px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=zsFBSYEAAAAJ&hl=en&oi=ao"
+   target="_blank">
+<strong>Dr. Bibhas Adhikari</strong>
+</a>
+
+<p style="margin:5px 0 0; font-size:14px;">
+Fujitsu Research of America, Inc.<br>
+USA
+</p>
+
+</div>
+
+
+<!-- ===================================== -->
+<!-- 9. Dr. Alok Kumar Pan                 -->
+<!-- ===================================== -->
+
+<div style="
+  width:240px;
+  min-height:125px;
+  border:1px solid #d8e2e8;
+  border-radius:12px;
+  padding:45px 15px 15px;
+  position:relative;
+  box-shadow:0 3px 10px rgba(0,0,0,0.07);
+">
+
+<img src="/Quantum_Kisholoy/assets/2026/Alok.jpg"
+     alt="Dr. Alok Kumar Pan"
+     style="
+       position:absolute;
+       top:-32px;
+       left:50%;
+       transform:translateX(-50%);
+       width:64px;
+       height:64px;
+       border-radius:50%;
+       object-fit:cover;
+       border:3px solid white;
+       box-shadow:0 0 0 2px #159957;
+     ">
+
+<a href="https://scholar.google.com/citations?user=65c_QkIAAAAJ&hl=en&oi=ao"
+   target="_blank">
+<strong>Dr. Alok Kumar Pan</strong>
+</a>
+
+<p style="margin:5px 0 0; font-size:14px;">
+IIT Hyderabad<br>
+India
+</p>
+
+</div>
 
-  align-items:flex-start;
-
-  gap:12px;
-
-  min-height:72px;
-
-  margin-bottom:12px;
-
-}
-
-
-/* Photo */
-
-.qk-advisory-photo {
-
-  flex:0 0 50px;
-
-  width:50px;
-
-  height:50px;
-
-  border-radius:50%;
-
-  object-fit:cover;
-
-  border:2px solid white;
-
-  box-shadow:
-    0 0 0 1px #b8c8d2;
-
-}
-
-
-/* Information */
-
-.qk-advisory-info {
-
-  padding-top:2px;
-
-  min-width:0;
-
-}
-
-
-/* Name */
-
-.qk-advisory-name {
-
-  margin:0;
-
-  font-size:15px;
-
-  line-height:1.35;
-
-  font-weight:600;
-
-}
-
-
-/* Name link */
-
-.qk-advisory-name a {
-
-  color:#333;
-
-  text-decoration:none;
-
-}
-
-.qk-advisory-name a:hover {
-
-  color:#159957;
-
-  text-decoration:underline;
-
-}
-
-
-/* Institution */
-
-.qk-advisory-details {
-
-  margin:4px 0 0;
-
-  font-size:13px;
-
-  line-height:1.45;
-
-  color:#555;
-
-}
-
-
-/* =========================================
-   MOBILE
-========================================= */
-
-@media screen and (max-width:700px) {
-
-  .qk-advisory-columns {
-
-    grid-template-columns:1fr;
-
-  }
-
-  .qk-advisory-column {
-
-    padding:5px 10px;
-
-  }
-
-  .qk-advisory-column:first-child {
-
-    border-right:none;
-
-    border-bottom:1px solid #d8d8d8;
-
-    padding-bottom:15px;
-
-    margin-bottom:15px;
-
-  }
-
-}
-
-</style>
-
-
-<div class="qk-advisory">
-
-  <div class="qk-advisory-columns">
-
-
-    <!-- =====================================
-         LEFT COLUMN
-    ====================================== -->
-
-    <div class="qk-advisory-column">
-
-
-      <!-- Bhanu Pratap Das -->
-
-      <div class="qk-advisory-member">
-
-        <img
-          src="/Quantum_Kisholoy/assets/2026/Bhanu.jpg"
-          alt="Prof. Bhanu Pratap Das"
-          class="qk-advisory-photo"
-        >
-
-        <div class="qk-advisory-info">
-
-          <p class="qk-advisory-name">
-            <a
-              href="https://scholar.google.com/citations?user=k8UtBTwAAAAJ&hl=en&oi=ao"
-              target="_blank"
-            >
-              Prof. Bhanu Pratap Das
-            </a>
-          </p>
-
-          <p class="qk-advisory-details">
-            CQuERE, TCG CREST
-          </p>
-
-        </div>
-
-      </div>
-
-
-      <!-- Prasanta K. Panigrahi -->
-
-      <div class="qk-advisory-member">
-
-        <img
-          src="/Quantum_Kisholoy/assets/2026/Prasanta.jpg"
-          alt="Prof. Prasanta K. Panigrahi"
-          class="qk-advisory-photo"
-        >
-
-        <div class="qk-advisory-info">
-
-          <p class="qk-advisory-name">
-            <a
-              href="https://scholar.google.com/citations?user=sNq6fwwAAAAJ&hl=en&oi=ao"
-              target="_blank"
-            >
-              Prof. Prasanta K. Panigrahi
-            </a>
-          </p>
-
-          <p class="qk-advisory-details">
-            Director, QCC, SOA
-          </p>
-
-        </div>
-
-      </div>
-
-
-      <!-- Anirban Pathak -->
-
-      <div class="qk-advisory-member">
-
-        <img
-          src="/Quantum_Kisholoy/assets/2026/Anirban.jpg"
-          alt="Prof. Anirban Pathak"
-          class="qk-advisory-photo"
-        >
-
-        <div class="qk-advisory-info">
-
-          <p class="qk-advisory-name">
-            <a
-              href="https://scholar.google.com/citations?user=fQ54OcoAAAAJ&hl=en&oi=ao"
-              target="_blank"
-            >
-              Prof. Anirban Pathak
-            </a>
-          </p>
-
-          <p class="qk-advisory-details">
-            JIIT, Noida
-          </p>
-
-        </div>
-
-      </div>
-
-
-      <!-- Pankaj Agarwal -->
-
-      <div class="qk-advisory-member">
-
-        <img
-          src="/Quantum_Kisholoy/assets/2026/Pankaj.jpg"
-          alt="Prof. Pankaj Agarwal"
-          class="qk-advisory-photo"
-        >
-
-        <div class="qk-advisory-info">
-
-          <p class="qk-advisory-name">
-            <a
-              href="https://www.tcgcrest.org/people/pankaj-agrawal/"
-              target="_blank"
-            >
-              Prof. Pankaj Agarwal
-            </a>
-          </p>
-
-          <p class="qk-advisory-details">
-            CQuERE, TCG CREST
-          </p>
-
-        </div>
-
-      </div>
-
-
-      <!-- Binayak S. Choudhury -->
-
-      <div class="qk-advisory-member">
-
-        <img
-          src="/Quantum_Kisholoy/assets/2026/Binayak.jpg"
-          alt="Prof. Binayak S. Choudhury"
-          class="qk-advisory-photo"
-        >
-
-        <div class="qk-advisory-info">
-
-          <p class="qk-advisory-name">
-            <a
-              href="https://scholar.google.com/citations?user=nu0PYOZ4QWIC&hl=en&oi=ao"
-              target="_blank"
-            >
-              Prof. Binayak S. Choudhury
-            </a>
-          </p>
-
-          <p class="qk-advisory-details">
-            IIEST Shibpur
-          </p>
-
-        </div>
-
-      </div>
-
-
-    </div>
-
-
-    <!-- =====================================
-         RIGHT COLUMN
-    ====================================== -->
-
-    <div class="qk-advisory-column">
-
-
-      <!-- R. Srikanth -->
-
-      <div class="qk-advisory-member">
-
-        <img
-          src="/Quantum_Kisholoy/assets/2026/Srikanth.jpg"
-          alt="Prof. R. Srikanth"
-          class="qk-advisory-photo"
-        >
-
-        <div class="qk-advisory-info">
-
-          <p class="qk-advisory-name">
-            <a
-              href="https://scholar.google.com/citations?user=q8qhgkwAAAAJ&hl=en&oi=ao"
-              target="_blank"
-            >
-              Prof. R. Srikanth
-            </a>
-          </p>
-
-          <p class="qk-advisory-details">
-            PPISR, Bengaluru
-          </p>
-
-        </div>
-
-      </div>
-
-
-      <!-- Subhashish Banerjee -->
-
-      <div class="qk-advisory-member">
-
-        <img
-          src="/Quantum_Kisholoy/assets/2026/Subhashis.jpg"
-          alt="Prof. Subhashish Banerjee"
-          class="qk-advisory-photo"
-        >
-
-        <div class="qk-advisory-info">
-
-          <p class="qk-advisory-name">
-            <a
-              href="https://scholar.google.com/citations?user=UU9KftAAAAAJ&hl=en&oi=ao"
-              target="_blank"
-            >
-              Prof. Subhashish Banerjee
-            </a>
-          </p>
-
-          <p class="qk-advisory-details">
-            IIT Jodhpur
-          </p>
-
-        </div>
-
-      </div>
-
-
-      <!-- Bibhas Adhikari -->
-
-      <div class="qk-advisory-member">
-
-        <img
-          src="/Quantum_Kisholoy/assets/2026/Bibhas.jpg"
-          alt="Dr. Bibhas Adhikari"
-          class="qk-advisory-photo"
-        >
-
-        <div class="qk-advisory-info">
-
-          <p class="qk-advisory-name">
-            <a
-              href="https://scholar.google.com/citations?user=zsFBSYEAAAAJ&hl=en&oi=ao"
-              target="_blank"
-            >
-              Dr. Bibhas Adhikari
-            </a>
-          </p>
-
-          <p class="qk-advisory-details">
-            Fujitsu Research of America, Inc
-          </p>
-
-        </div>
-
-      </div>
-
-
-      <!-- Alok Kumar Pan -->
-
-      <div class="qk-advisory-member">
-
-        <img
-          src="/Quantum_Kisholoy/assets/2026/Alok.jpg"
-          alt="Dr. Alok Kumar Pan"
-          class="qk-advisory-photo"
-        >
-
-        <div class="qk-advisory-info">
-
-          <p class="qk-advisory-name">
-            <a
-              href="https://scholar.google.com/citations?user=65c_QkIAAAAJ&hl=en&oi=ao"
-              target="_blank"
-            >
-              Dr. Alok Kumar Pan
-            </a>
-          </p>
-
-          <p class="qk-advisory-details">
-            IIT Hyderabad
-          </p>
-
-        </div>
-
-      </div>
-
-
-    </div>
-
-  </div>
 
 </div>
 
