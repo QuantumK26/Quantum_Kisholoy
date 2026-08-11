@@ -14,7 +14,7 @@
     text-align:center;
   ">
 
-    <img src="{{ '/assets/2026/Clogor.png' | relative_url }}"
+    <img src="{{ '/assets/2026/Logo2.jpeg' | relative_url }}"
          alt="Quantum Kisholoy Conference Logo"
          style="
            width:170px;
