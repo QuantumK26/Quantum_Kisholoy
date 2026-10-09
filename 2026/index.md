@@ -37,7 +37,9 @@ Jirania, West Tripura, India - 799046.
 
 <div style="font-size: 14px; line-height: 2; color: #34495e;">
 
-<strong>Mode:</strong> Online (Microsoft Teams &amp; YouTube Live)<br>
+<div style="white-space: nowrap;">
+<strong>Mode:</strong> Online (Microsoft Teams &amp; YouTube Live)
+</div>
 
 <strong>Registration Fee:</strong>
 <strong style="color: #16a085;">NIL (Free)</strong><br>
@@ -51,7 +53,7 @@ Jirania, West Tripura, India - 799046.
 <strong>Poster Submission Starts:</strong>
 <strong style="color: #f57c00;">18.12.2026</strong><br>
 
-<strong style="color: #c0392b;">Poster Submission Deadline:</strong>
+<strong>Poster Submission Deadline:</strong>
 <strong style="color: #f57c00;">05.01.2027</strong>
 
 <strong style="color: #2c3e50;">Conference Dates:</strong>
