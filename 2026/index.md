@@ -79,6 +79,7 @@ We are interested to all the areas of quantum information, and computation which
 * Game theory in quantum information and computing
 * Quantum Tensor Networks
 * Quantum State Transfer
+  
 ------
 ## Quick Links
 **[Conference Poster](https://drive.google.com/file/d/1Sq_k1MY-1oyOUxqauhMNZUwUZmAbNA44/view?usp=sharing)** &nbsp;&nbsp; | &nbsp;&nbsp;
