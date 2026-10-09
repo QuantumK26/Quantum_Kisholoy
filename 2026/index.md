@@ -34,11 +34,20 @@ Jirania, West Tripura, India - 799046.
 
 <hr>
 
+
 <p style="line-height: 1.8;">
-📅 <strong>Dates:</strong> January 22-24, 2027<br>
-💻 <strong>Mode:</strong> Online (Microsoft Teams & YouTube Live)<br>
+💻 <strong>Mode:</strong> Online (Microsoft Teams &amp; YouTube Live)<br>
 💰 <strong>Registration Fee:</strong> NIL (Free)
+📝 <strong>Abstract Submission Deadline:</strong>
+<strong style="color: orange;">30.11.2026</strong><br>
+✅ <strong>Acceptance of Abstract for Talk:</strong>
+<strong style="color: orange;">18.12.2026</strong><br>
+📌 <strong>Poster Submission Starts:</strong>
+<strong style="color: orange;">18.12.2026</strong><br>
+⏳ <strong>Poster Submission Deadline:</strong>
+<strong style="color: orange;">05.01.2027</strong><br>
 </p>
+
 </div>
 
 
