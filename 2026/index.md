@@ -37,21 +37,22 @@ Jirania, West Tripura, India - 799046.
 
 
 
-<div style="font-size: 13px; line-height: 1.8; color: #34495e;">
+
+<div style="font-size: 12px; line-height: 1.6; color: #34495e;">
 
 <!-- CONFERENCE INFORMATION -->
 <div style="
-  padding: 10px;
-  margin-bottom: 12px;
+  padding: 8px 10px;
+  margin-bottom: 8px;
   border: 1px solid #d8e2e8;
   border-left: 4px solid #159957;
   border-radius: 7px;
   background: #f8fbfd;
 ">
 
-<strong style="color: #159957; font-size: 14px;">ℹ️ Conference Information</strong>
+<strong style="color: #159957; font-size: 13px;">ℹ️ Conference Information</strong>
 
-<div style="margin-top: 6px;">
+<div style="margin-top: 4px;">
 <span style="color: #159957;">●</span>
 <strong>Mode:</strong> Online (Microsoft Teams &amp; YouTube Live)
 </div>
@@ -66,47 +67,46 @@ Jirania, West Tripura, India - 799046.
 
 <!-- IMPORTANT DATES -->
 <div style="
-  padding: 10px;
+  padding: 8px 10px;
   border: 1px solid #d8e2e8;
   border-left: 4px solid #159957;
   border-radius: 7px;
   background: #f8fbfd;
 ">
 
-<strong style="color: #159957; font-size: 14px;">📅 Important Dates</strong>
-
-<div style="margin-top: 6px;">
-<span style="color: #159957;">●</span>
-<strong>Abstract Submission Deadline:</strong><br>
-<strong style="color: #f57c00;">30.11.2026</strong>
-</div>
+<strong style="color: #159957; font-size: 13px;">📅 Important Dates</strong>
 
 <div style="margin-top: 5px;">
 <span style="color: #159957;">●</span>
-<strong>Acceptance of Abstract for Talk:</strong><br>
-<strong style="color: #f57c00;">18.12.2026</strong>
+<strong>Abstract Submission Deadline:</strong>
+<strong style="color: #f57c00; white-space: nowrap;">30.11.2026</strong>
 </div>
 
-<div style="margin-top: 5px;">
+<div>
 <span style="color: #159957;">●</span>
-<strong>Poster Submission Starts:</strong><br>
-<strong style="color: #f57c00;">18.12.2026</strong>
+<strong>Acceptance of Abstract for Talk:</strong>
+<strong style="color: #f57c00; white-space: nowrap;">18.12.2026</strong>
 </div>
 
-<div style="margin-top: 5px;">
+<div>
 <span style="color: #159957;">●</span>
-<strong>Poster Submission Deadline:</strong><br>
-<strong style="color: #f57c00;">05.01.2027</strong>
+<strong>Poster Submission Starts:</strong>
+<strong style="color: #f57c00; white-space: nowrap;">18.12.2026</strong>
 </div>
 
-<div style="margin-top: 5px;">
+<div>
 <span style="color: #159957;">●</span>
-<strong>Conference Dates:</strong><br>
-<strong style="color: #f57c00;">22.01.2027 – 24.01.2027</strong>
+<strong>Poster Submission Deadline:</strong>
+<strong style="color: #f57c00; white-space: nowrap;">05.01.2027</strong>
+</div>
+
+<div>
+<span style="color: #159957;">●</span>
+<strong>Conference Dates:</strong>
+<strong style="color: #f57c00; white-space: nowrap;">22.01.2027 – 24.01.2027</strong>
 </div>
 
 </div>
-
 </div>
 
 </div>
