@@ -56,6 +56,7 @@ Jirania, West Tripura, India - 799046.
 <span style="color: #159957;">●</span> <strong>Poster Submission Deadline:</strong>
 <strong style="color: #f57c00;">05.01.2027</strong>
 
+
 <span style="color: #159957;">●</span> <strong style="color: #2c3e50;">Conference Dates:</strong>
 <strong style="color: #f57c00;">22.01.2027 – 24.01.2027</strong><br>
 
