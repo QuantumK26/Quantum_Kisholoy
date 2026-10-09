@@ -39,33 +39,33 @@ Jirania, West Tripura, India - 799046.
 
 
 
-<div style="font-size: 13px; line-height: 1.8; color: #34495e;">
+
+<div style="font-size: 16px; line-height: 2; color: #34495e;">
 
 <strong>Mode:</strong> Online (Microsoft Teams &amp; YouTube Live)<br>
+
 <strong>Registration Fee:</strong>
 <strong style="color: #16a085;">NIL (Free)</strong><br>
 
-<div style="white-space: nowrap;">
-<strong style="color: #2c3e50;">Abstract Submission Deadline:</strong>
-<strong style="color: #f57c00;">30.11.2026</strong>
-</div>
+<strong>Abstract Submission Deadline:</strong>
+<strong style="color: #f57c00;">30.11.2026</strong><br>
 
-<div style="white-space: nowrap;">
-<strong style="color: #2c3e50;">Acceptance of Abstract for Talk:</strong>
-<strong style="color: #f57c00;">18.12.2026</strong>
-</div>
+<strong>Acceptance of Abstract for Talk:</strong>
+<strong style="color: #f57c00;">18.12.2026</strong><br>
 
-<div style="white-space: nowrap;">
-<strong style="color: #2c3e50;">Poster Submission Starts:</strong>
-<strong style="color: #f57c00;">18.12.2026</strong>
-</div>
+<strong>Poster Submission Starts:</strong>
+<strong style="color: #f57c00;">18.12.2026</strong><br>
 
-<div style="white-space: nowrap;">
 <strong style="color: #c0392b;">Poster Submission Deadline:</strong>
 <strong style="color: #f57c00;">05.01.2027</strong>
-</div>
+
+<strong style="color: #2c3e50;">Conference Dates:</strong>
+<strong style="color: #f57c00;">22.01.2027 – 24.01.2027</strong><br>
+
+
 
 </div>
+
 
 </div>
 
