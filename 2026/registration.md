@@ -127,29 +127,31 @@ Registration for **Quantum Kisholoy - I** is mandatory for all participants. But
 ">
 
 <div style="white-space: nowrap;">
-📅 <strong>Conference Dates:</strong>
-<strong style="color: #f57c00;">22.01.2027 – 24.01.2027</strong>
-</div>
-
-<div style="white-space: nowrap;">
-📝 <strong>Abstract Submission Deadline:</strong>
+<strong>Abstract Submission Deadline:</strong>
 <strong style="color: #f57c00;">30.11.2026</strong>
 </div>
 
 <div style="white-space: nowrap;">
-📢 <strong>Acceptance of Abstract for Talk:</strong>
+<strong>Acceptance of Abstract for Talk:</strong>
 <strong style="color: #f57c00;">18.12.2026</strong>
 </div>
 
 <div style="white-space: nowrap;">
-🖼️ <strong>Poster Submission Starts:</strong>
+<strong>Poster Submission Starts:</strong>
 <strong style="color: #f57c00;">18.12.2026</strong>
 </div>
 
 <div style="white-space: nowrap;">
-⏳ <strong style="color: #c0392b;">Poster Submission Deadline:</strong>
+<strong>Poster Submission Deadline:</strong>
 <strong style="color: #f57c00;">05.01.2027</strong>
 </div>
+
+<div style="white-space: nowrap;">
+<strong>Conference Dates:</strong>
+<strong style="color: #f57c00;">22.01.2027 – 24.01.2027</strong>
+</div>
+
+
 
 </div>
 
