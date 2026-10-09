@@ -40,7 +40,7 @@ Jirania, West Tripura, India - 799046.
 
 
 
-<div style="font-size: 16px; line-height: 2; color: #34495e;">
+<div style="font-size: 14px; line-height: 2; color: #34495e;">
 
 <strong>Mode:</strong> Online (Microsoft Teams &amp; YouTube Live)<br>
 
