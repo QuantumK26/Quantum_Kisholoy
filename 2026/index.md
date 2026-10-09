@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: "Quantum Kisholoy - I"
@@ -7,10 +8,10 @@ title: "Quantum Kisholoy - I"
 
 ---
 
-<div style="display: flex; gap: 30px; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
 
-<!-- LEFT SIDE: ORGANIZING HOST -->
-<div style="flex: 0 0 20%;">
+<!-- LEFT SIDE: ORGANIZING HOST AND IMPORTANT DATES -->
+<div style="flex: 0 1 280px; min-width: 0;">
 
 <div style="text-align: center;">
 
@@ -18,99 +19,122 @@ title: "Quantum Kisholoy - I"
      alt="NIT Agartala Logo"
      width="130">
 
-<h3 style="white-space: nowrap; font-size: 18px;">
+<h3 style="font-size: 18px;">
 Department of Mathematics
 </h3>
 
-<p style="white-space: nowrap; font-size: 15px;">
+<p style="font-size: 15px;">
 <strong>National Institute of Technology Agartala</strong>
 </p>
 
-<p>
-Jirania, West Tripura, India - 799046.
-</p>
+<p>Jirania, West Tripura, India - 799046.</p>
 
 </div>
 
 <hr>
 
+<h3 style="color: #159957; text-align: center;">📅 Important Dates</h3>
 
+<div style="
+  font-size: 14px;
+  line-height: 1.9;
+  color: #34495e;
+  padding: 15px 12px;
+  border: 1px solid #d8e2e8;
+  border-left: 5px solid #159957;
+  border-radius: 8px;
+  background: #f8fbfd;
+  overflow-wrap: anywhere;
+">
 
+<div style="margin-bottom: 8px;">
+💻 <strong>Mode:</strong><br>
+Online (Microsoft Teams &amp; YouTube Live)
+</div>
 
+<div style="margin-bottom: 8px;">
+💰 <strong>Registration Fee:</strong><br>
+<strong style="color: #16a085;">NIL (Free)</strong>
+</div>
 
+<hr style="border: 0; border-top: 1px solid #e0e6eb;">
 
+<div style="margin-bottom: 10px;">
+📝 <strong>Abstract Submission Deadline:</strong><br>
+<strong style="color: #f57c00; font-size: 15px;">30.11.2026</strong>
+</div>
 
-<div style="font-size: 14px; line-height: 2; color: #34495e;">
+<div style="margin-bottom: 10px;">
+📢 <strong>Acceptance of Abstract for Talk:</strong><br>
+<strong style="color: #f57c00; font-size: 15px;">18.12.2026</strong>
+</div>
 
-<strong>Mode:</strong> Online (Microsoft Teams &amp; YouTube Live)<br>
+<div style="margin-bottom: 10px;">
+🖼️ <strong>Poster Submission Starts:</strong><br>
+<strong style="color: #f57c00; font-size: 15px;">18.12.2026</strong>
+</div>
 
-<strong>Registration Fee:</strong>
-<strong style="color: #16a085;">NIL (Free)</strong><br>
+<div style="margin-bottom: 10px;">
+⏳ <strong style="color: #c0392b;">Poster Submission Deadline:</strong><br>
+<strong style="color: #f57c00; font-size: 15px;">05.01.2027</strong>
+</div>
 
-<strong>Abstract Submission Deadline:</strong>
-<strong style="color: #f57c00;">30.11.2026</strong><br>
+<hr style="border: 0; border-top: 1px solid #e0e6eb;">
 
-<strong>Acceptance of Abstract for Talk:</strong>
-<strong style="color: #f57c00;">18.12.2026</strong><br>
-
-<strong>Poster Submission Starts:</strong>
-<strong style="color: #f57c00;">18.12.2026</strong><br>
-
-<strong style="color: #c0392b;">Poster Submission Deadline:</strong>
-<strong style="color: #f57c00;">05.01.2027</strong>
-
-<strong style="color: #2c3e50;">Conference Dates:</strong>
-<strong style="color: #f57c00;">22.01.2027 – 24.01.2027</strong><br>
-
-
+<div>
+📆 <strong>Conference Dates:</strong><br>
+<strong style="color: #f57c00; font-size: 15px;">22.01.2027 – 24.01.2027</strong>
+</div>
 
 </div>
 
-
 </div>
 
-
-<!-- RIGHT SIDE: ABOUT -->
-<div style="flex: 1; border-left: 1px solid #ddd; padding-left: 30px;">
+<!-- RIGHT SIDE: ABOUT THE CONFERENCE -->
+<div style="flex: 1 1 400px; min-width: 0; border-left: 1px solid #ddd; padding-left: 25px;">
 
 <h2>About the Conference</h2>
 
 <p>
-<strong>“Kisholoy”</strong>, a Bengali word that translates to a <em>“fresh new leaf”</em> derived from Sanskrit, metaphorically signifies youth, warmth, new beginnings, and the beginning of a vibrant new life. The primary focus of this conference, <strong>Quantum Kisholoy</strong>, is to bring together all the young researchers in quantum information and computation working at different universities all over the world. In this platform, they can present their research works followed by collaborative opportunities. The target audience of this conference consists of the young researchers including the undergraduate students, post graduate students, PhD scholars, post-doctoral fellows, faculty members, as well as industry personnel.
+<strong>“Kisholoy”</strong>, a Bengali word that translates to a <em>“fresh new leaf”</em>, derived from Sanskrit, metaphorically signifies youth, warmth, new beginnings, and the beginning of a vibrant new life. The primary focus of this conference, <strong>Quantum Kisholoy</strong>, is to bring together young researchers in quantum information and computation working at universities worldwide. This platform allows them to present their research and explore collaborative opportunities. The target audience includes undergraduate and postgraduate students, PhD scholars, postdoctoral fellows, faculty members, and industry professionals.
 </p>
 
 <p>
-This conference represents a pioneering initiative, being the first of its kind to be hosted in North-Eastern India. The conference is freely assessable, and hence registration fee for the participants have been waived. Also, to make the conference reachable world-wise, we keep it online.
+This conference represents a pioneering initiative, being the first of its kind to be hosted in North-Eastern India. The conference is freely accessible, and the registration fee has therefore been waived. To make the conference accessible worldwide, it will be conducted online.
 </p>
 
 </div>
 
 </div>
-------
+
+---
+
 ## Aims and Scope
 
-We are interested to all the areas of quantum information, and computation which include but not limited to the following:
-* Quantum Algorithms
-* Quantum Information Theory
-* Quantum ML \& AI
-* Quantum Cryptography
-* Quantum Error Correction Code
-* Quantum Communication \& Quantum Networks
-* Quantum Walks
-* Quantum Optimization
-* Quantum Simulation
-* Quantum Hardware
-* Quantum Sensors
-* Quantum Software
-* Open Quantum Systems
-* Graph theory in quantum information and computing
-* Game theory in quantum information and computing
-* Quantum Tensor Networks
-* Quantum State Transfer
-  
-  
-------
+We welcome contributions from all areas of quantum information and computation, including but not limited to:
+
+- Quantum Algorithms
+- Quantum Information Theory
+- Quantum ML &amp; AI
+- Quantum Cryptography
+- Quantum Error Correction Codes
+- Quantum Communication &amp; Quantum Networks
+- Quantum Walks
+- Quantum Optimization
+- Quantum Simulation
+- Quantum Hardware
+- Quantum Sensors
+- Quantum Software
+- Open Quantum Systems
+- Graph Theory in Quantum Information and Computing
+- Game Theory in Quantum Information and Computing
+- Quantum Tensor Networks
+- Quantum State Transfer
+
+---
+
 ## Quick Links
+
 **[Conference Poster](https://drive.google.com/file/d/1Sq_k1MY-1oyOUxqauhMNZUwUZmAbNA44/view?usp=sharing)** &nbsp;&nbsp; | &nbsp;&nbsp;
 🎤 **[Keynote & Invited Speakers](./speakers)** &nbsp;&nbsp; | &nbsp;&nbsp;
 👥 **[Conference Committee](./committee)** &nbsp;&nbsp; | &nbsp;&nbsp;
@@ -120,14 +144,14 @@ We are interested to all the areas of quantum information, and computation which
 
 ## Conference Details
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
 
 <img src="/Quantum_Kisholoy/assets/2026/QR_code_2026.png"
-     alt="VCQC 2026 QR Code"
+     alt="Quantum Kisholoy Conference QR Code"
      width="120">
 
 <div>
-<strong>Scan the QR code for further details of the conference</strong>
+<strong>Scan the QR code for further details of the conference.</strong>
 </div>
 
 </div>
