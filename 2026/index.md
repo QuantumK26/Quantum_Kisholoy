@@ -36,13 +36,14 @@ Jirania, West Tripura, India - 799046.
 
 
 
-<p style="line-height: 1.8; display: flex; flex-wrap: nowrap; align-items: center; gap: 18px; white-space: nowrap; font-size: 14px; overflow-x: auto;">
-💻 <strong>Mode:</strong> Online (Microsoft Teams &amp; YouTube Live)
-💰 <strong>Registration Fee:</strong> NIL (Free)
-📝 <strong>Abstract Submission Deadline:</strong> <strong style="color: orange;">30.11.2026</strong>
-✅ <strong>Acceptance of Abstract for Talk:</strong> <strong style="color: orange;">18.12.2026</strong>
-📌 <strong>Poster Submission Starts:</strong> <strong style="color: orange;">18.12.2026</strong>
-⏳ <strong>Poster Submission Deadline:</strong> <strong style="color: orange;">05.01.2027</strong>
+
+<p style="line-height: 1.8;">
+💻 <strong>Mode:</strong> Online (Microsoft Teams &amp; YouTube Live)<br>
+💰 <strong>Registration Fee:</strong> NIL (Free)<br>
+📝 <strong>Abstract Submission Deadline:</strong> <strong style="color: orange; white-space: nowrap;">30.11.2026</strong><br>
+✅ <strong>Acceptance of Abstract for Talk:</strong> <strong style="color: orange; white-space: nowrap;">18.12.2026</strong><br>
+📌 <strong>Poster Submission Starts:</strong> <strong style="color: orange; white-space: nowrap;">18.12.2026</strong><br>
+⏳ <strong>Poster Submission Deadline:</strong> <strong style="color: orange; white-space: nowrap;">05.01.2027</strong>
 </p>
 
 </div>
