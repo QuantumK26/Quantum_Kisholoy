@@ -165,7 +165,10 @@ We are interested to all the areas of quantum information, and computation which
 **[Conference Poster](https://drive.google.com/file/d/1Sq_k1MY-1oyOUxqauhMNZUwUZmAbNA44/view?usp=sharing)** &nbsp;&nbsp; | &nbsp;&nbsp;
 🎤 **[Keynote & Invited Speakers](./speakers)** &nbsp;&nbsp; | &nbsp;&nbsp;
 👥 **[Conference Committee](./committee)** &nbsp;&nbsp; | &nbsp;&nbsp;
-📝 **[Registration & Abstract Submission](./registration)**
+📝 **[Registration & Abstract Submission](./registration)** | &nbsp;&nbsp;
+🏛️ **[NIT Agartala](https://www.nita.ac.in/)** &nbsp;&nbsp; | &nbsp;&nbsp;
+📐 **[Department of Mathematics](https://www.nita.ac.in/Department/Mathematics)**
+
 
 ---
 
