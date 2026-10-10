@@ -486,6 +486,53 @@ title: "Quantum Kisholoy - I"
 
   </div>
 
+  
+<!-- =====================================================
+     DEPARTMENT FACULTY MEMBERS
+===================================================== -->
+
+<h3 class="vcqc-org-title">
+  Department Faculty Members
+</h3>
+
+<div class="vcqc-org-single">
+
+  <div class="vcqc-org-card">
+
+    <p class="vcqc-org-name">
+      All Faculty Members
+    </p>
+
+    <p class="vcqc-org-details">
+      Department of Mathematics<br>
+      National Institute of Technology Agartala
+    </p>
+
+    <p style="margin-top: 15px;">
+      <a
+        href="https://nita.ac.in/Department/Department_FacultyList.aspx?nDeptID=caasq"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="
+          display: inline-block;
+          padding: 9px 16px;
+          background: #159957;
+          color: #ffffff;
+          text-decoration: none;
+          border-radius: 6px;
+          font-size: 14px;
+          font-weight: 600;
+        "
+      >
+        View Faculty Members ↗
+      </a>
+    </p>
+
+  </div>
+
+</div>
+
+
 </div>
 
 
