@@ -487,6 +487,7 @@ title: "Quantum Kisholoy - I"
   </div>
 
   
+
 <!-- =====================================================
      DEPARTMENT FACULTY MEMBERS
 ===================================================== -->
@@ -499,8 +500,29 @@ title: "Quantum Kisholoy - I"
 
   <div class="vcqc-org-card">
 
+    <!-- FACULTY ICON -->
+    <div style="
+      width: 68px;
+      height: 68px;
+      position: absolute;
+      top: -36px;
+      left: 50%;
+      transform: translateX(-50%);
+      border-radius: 50%;
+      background: #ffffff;
+      border: 3px solid #ffffff;
+      box-shadow: 0 0 0 2px #159957,
+                  0 3px 8px rgba(0,0,0,0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 32px;
+    ">
+      👨‍🏫
+    </div>
+
     <p class="vcqc-org-name">
-      All Faculty Members
+      Faculty Members
     </p>
 
     <p class="vcqc-org-details">
@@ -508,14 +530,14 @@ title: "Quantum Kisholoy - I"
       National Institute of Technology Agartala
     </p>
 
-    <p style="margin-top: 15px;">
+    <p style="margin-top: 14px; margin-bottom: 0;">
       <a
         href="https://nita.ac.in/Department/Department_FacultyList.aspx?nDeptID=caasq"
         target="_blank"
         rel="noopener noreferrer"
         style="
           display: inline-block;
-          padding: 9px 16px;
+          padding: 8px 16px;
           background: #159957;
           color: #ffffff;
           text-decoration: none;
@@ -524,7 +546,7 @@ title: "Quantum Kisholoy - I"
           font-weight: 600;
         "
       >
-        View Faculty Members ↗
+        View All Faculty Members ↗
       </a>
     </p>
 
@@ -532,11 +554,6 @@ title: "Quantum Kisholoy - I"
 
 </div>
 
-
-</div>
-
-
-</div>
 
 <br>
 
