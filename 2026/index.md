@@ -167,7 +167,7 @@ We are interested to all the areas of quantum information, and computation which
 👥 **[Conference Committee](./committee)** &nbsp;&nbsp; | &nbsp;&nbsp;
 📝 **[Registration & Abstract Submission](./registration)** | &nbsp;&nbsp;
 🏛️ **[NIT Agartala](https://www.nita.ac.in/)** &nbsp;&nbsp; | &nbsp;&nbsp;
-📐 **[Department of Mathematics](https://www.nita.ac.in/Department/Mathematics)**
+📐 **[Department of Mathematics]([https://www.nita.ac.in/Department/Mathematics](https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=qc&nDeptID=caasq))**
 
 
 ---
