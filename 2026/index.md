@@ -18,12 +18,29 @@ title: "Quantum Kisholoy - I"
      alt="NIT Agartala Logo"
      width="130">
 
+
 <h3 style="white-space: nowrap; font-size: 18px;">
-Department of Mathematics
+  <a
+    href="https://www.nita.ac.in/Department/Deptindex.aspx?page=a&amp;ItemID=qc&amp;nDeptID=caasq"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="color: inherit; text-decoration: none;"
+  >
+    Department of Mathematics
+  </a>
 </h3>
 
 <p style="white-space: nowrap; font-size: 15px;">
-<strong>National Institute of Technology Agartala</strong>
+  <strong>
+    <a
+      href="https://www.nita.ac.in/"
+      target="_blank"
+      rel="noopener noreferrer"
+      style="color: inherit; text-decoration: none;"
+    >
+      National Institute of Technology Agartala
+    </a>
+  </strong>
 </p>
 
 <p>
