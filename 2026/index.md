@@ -1,7 +1,6 @@
 
 ---
 layout: default
-title: "Quantum Kisholoy - I"
 ---
 
 [Home](./) | [Committee](./committee) | [Speakers](./speakers) | [Participants](./participants) | [Registration](./registration) | [Programme](./programme) | [Kisholoy](/Quantum_Kisholoy/)
