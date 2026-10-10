@@ -147,6 +147,12 @@ Registration for **Quantum Kisholoy - I** is mandatory for all participants. But
 </div>
 
 <div style="white-space: nowrap;">
+<strong>Registration Deadline:</strong>
+<strong style="color: #f57c00;">15.01.2027</strong>
+</div>
+
+
+<div style="white-space: nowrap;">
 <strong>Conference Dates:</strong>
 <strong style="color: #f57c00;">22.01.2027 – 24.01.2027</strong>
 </div>
