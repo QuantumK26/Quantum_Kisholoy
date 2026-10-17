@@ -79,7 +79,7 @@
 
   
   <p style="margin:0;">
-    📅 <strong>October 15–17, 2026</strong>
+    📅 <strong>January 22–24, 2027</strong>
     &nbsp;&nbsp;|&nbsp;&nbsp;
     💻 <strong>Online</strong>
     &nbsp;&nbsp;|&nbsp;&nbsp;
